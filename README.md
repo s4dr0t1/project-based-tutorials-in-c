@@ -66,6 +66,7 @@ A list of C tutorials that work through the creation of small and or large proje
     * [Part 5 - Local Variables](https://norasandler.com/2018/01/08/Write-a-Compiler-5.html)
     * [Part 6 - Conditionals](https://norasandler.com/2018/02/25/Write-a-Compiler-6.html)
     * [Part 7 - Compound Statements](https://norasandler.com/2018/03/14/Write-a-Compiler-7.html)
+    * [Part 8 - Loops](https://norasandler.com/2018/04/10/Write-a-Compiler-8.html)
 * [Let's code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 * Write a C Interpreter
     * [Part 0 - Preface](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/0-Preface.md)
