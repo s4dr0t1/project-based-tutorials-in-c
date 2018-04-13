@@ -82,6 +82,7 @@ A list of C tutorials that work through the creation of small and or large proje
 * [Emulator 101](http://emulator101.com/)
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) [In-progress]
 * [Making a Heap Allocator](https://handmade.network/wiki/2877-tutorial_making_a_heap_allocator)
+* [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial) [In-progress]
 
 ## Videos
 
