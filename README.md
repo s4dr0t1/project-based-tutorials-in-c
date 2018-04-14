@@ -83,6 +83,9 @@ A list of C tutorials that work through the creation of small and or large proje
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) [In-progress]
 * [Making a Heap Allocator](https://handmade.network/wiki/2877-tutorial_making_a_heap_allocator)
 * [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial) [In-progress]
+* [Brickout](https://dashgl.com/Brickout/)
+* [Invaders](https://dashgl.com/Invaders/)
+* [Astroids](https://dashgl.com/Astroids/)
 
 ## Videos
 
