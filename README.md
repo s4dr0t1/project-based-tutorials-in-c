@@ -86,6 +86,7 @@ A list of C tutorials that work through the creation of small and or large proje
 * [Brickout](https://dashgl.com/Brickout/)
 * [Invaders](https://dashgl.com/Invaders/)
 * [Astroids](https://dashgl.com/Astroids/)
+* [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html)
 
 ## Videos
 
