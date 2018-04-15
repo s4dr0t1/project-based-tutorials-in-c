@@ -1,6 +1,6 @@
 # Project Based Tutorials in C
 
-A list of C tutorials that work through the creation of small and or large projects.
+A list of tutorials that work through the creation of small, medium, and large projects in C.
 
 ## Books
 
