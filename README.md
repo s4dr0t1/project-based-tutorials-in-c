@@ -1,4 +1,4 @@
-# C Project Based Tutorials
+# Project Based Tutorials in C
 
 A list of C tutorials that work through the creation of small and or large projects.
 
