@@ -58,15 +58,6 @@ A list of tutorials that work through the creation of small, medium, and large p
     * [Part 22 - Standard Library](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_21-standard-library)
     * [Part 23 - Garbage Collection](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_22-garbage-collection)
     * [Part 24 - Conclusion](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-conclusion)
-* Writing a C Compiler [In-progress]
-    * [Part 1 - Integers](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
-    * [Part 2 - Unary Operators](https://norasandler.com/2017/12/05/Write-a-Compiler-2.html)
-    * [Part 3 - Binary Operators](https://norasandler.com/2017/12/15/Write-a-Compiler-3.html)
-    * [Part 4 - Even More Binary Operators](https://norasandler.com/2017/12/28/Write-a-Compiler-4.html)
-    * [Part 5 - Local Variables](https://norasandler.com/2018/01/08/Write-a-Compiler-5.html)
-    * [Part 6 - Conditionals](https://norasandler.com/2018/02/25/Write-a-Compiler-6.html)
-    * [Part 7 - Compound Statements](https://norasandler.com/2018/03/14/Write-a-Compiler-7.html)
-    * [Part 8 - Loops](https://norasandler.com/2018/04/10/Write-a-Compiler-8.html)
 * [Let's code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 * Write a C Interpreter
     * [Part 0 - Preface](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/0-Preface.md)
