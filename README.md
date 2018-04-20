@@ -28,7 +28,7 @@ A list of tutorials that work through the creation of small, medium, and large p
 * [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
 * Let’s write a Kernel
     * [Part 1 - Kernel 101](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
-    * [Part 2 - Kernal 201](https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard)
+    * [Part 2 - Kernel 201](https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard)
 * [Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/write-a-simple-memory-allocator)
 * [How to Program an NES game in C](https://nesdoug.com/)
 * [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
