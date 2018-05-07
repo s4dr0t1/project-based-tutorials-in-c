@@ -96,3 +96,7 @@ A list of tutorials that work through the creation of small, medium, and large p
 * [Projects-from-Scratch](https://github.com/AlgoryL/Projects-from-Scratch)
 * [awesome-diy-software](https://github.com/cweagans/awesome-diy-software)
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning)
+
+## Other
+
+* [The UChicago χ-Projects](http://chi.cs.uchicago.edu/index.html)
