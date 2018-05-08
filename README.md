@@ -2,6 +2,14 @@
 
 A list of tutorials that work through the creation of small, medium, and large projects in C.
 
+## Contents
+
+* [Books](#books)
+* [Articles](#articles)
+* [Videos](#videos)
+* [Similar](#similar)
+* [Other](#other)
+
 ## Books
 
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
