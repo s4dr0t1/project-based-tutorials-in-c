@@ -1,6 +1,6 @@
 # Project Based Tutorials in C
 
-A list of tutorials that work through the creation of small, medium, and large projects in C.
+A list of tutorials that work towards the making of small to large projects in C.
 
 ## Contents
 
@@ -31,6 +31,7 @@ A list of tutorials that work through the creation of small, medium, and large p
 * [Let's Write a Malloc](https://danluu.com/malloc-tutorial/)
 * [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
 * [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+* [Write a System Call](https://brennan.io/2016/11/14/kernel-dev-ep3/)
 * [Writing a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
 * [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
 * [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
@@ -86,6 +87,7 @@ A list of tutorials that work through the creation of small, medium, and large p
 * [Invaders](https://dashgl.com/Invaders/)
 * [Astroids](https://dashgl.com/Astroids/)
 * [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html)
+* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) [In-progress]
 
 ## Videos
 
