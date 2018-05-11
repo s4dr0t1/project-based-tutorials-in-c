@@ -88,6 +88,11 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Astroids](https://dashgl.com/Astroids/)
 * [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html)
 * [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) [In-progress]
+* Writing a Unix Shell
+   * [Part 1](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
+   * [Part 2](https://indradhanush.github.io/blog/writing-a-unix-shell-part-2)
+   * [Part 3](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3)
+* [Let's Build a Compiler: A C & x86 version](https://github.com/lotabout/Let-s-build-a-compiler)
 
 ## Videos
 
