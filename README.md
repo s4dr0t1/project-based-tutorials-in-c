@@ -93,6 +93,7 @@ A list of tutorials that work towards the making of small to large projects in C
    * [Part 2](https://indradhanush.github.io/blog/writing-a-unix-shell-part-2)
    * [Part 3](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3)
 * [Let's Build a Compiler: A C & x86 version](https://github.com/lotabout/Let-s-build-a-compiler)
+* [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/)
 
 ## Videos
 
