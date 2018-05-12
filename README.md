@@ -107,6 +107,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Learn Socket Programming in C from Scratch](https://www.udemy.com/learn-socket-programming-in-c-from-scratch/)
 * [Bitwise](https://github.com/pervognsen/bitwise) [In-progress]
 * [Handmade Hero](https://handmadehero.org/) [In-progress]
+* [Handmade Quake](https://www.youtube.com/playlist?list=PLBKDuv-qJpTbCsXHsxcoSSsMarnfyNhHF) [In-progress]
 * [Making a Text Adventure Game in C](https://www.youtube.com/watch?v=sLcrmZyWgaM) [In-progress]
 
 ## Similar
