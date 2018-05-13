@@ -13,7 +13,7 @@ A list of tutorials that work towards the making of small to large projects in C
 ## Books
 
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
-* [Crafting Interpreters](http://www.craftinginterpreters.com/) [In-progress]
+* [Crafting Interpreters](http://www.craftinginterpreters.com/) `In-progress`
 * [The little book about OS development](https://littleosbook.github.io/)
 * [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/)
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/html/multi/index.html)
@@ -80,14 +80,14 @@ A list of tutorials that work towards the making of small to large projects in C
     * [Part 8 - Expressions](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/8-Expressions.md)
 * [Hack the Virtual Memory](https://blog.holbertonschool.com/hack-virtual-memory-stack-registers-assembly-code/)
 * [Emulator 101](http://emulator101.com/)
-* [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) [In-progress]
+* [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) `In-progress`
 * [Making a Heap Allocator](https://handmade.network/wiki/2877-tutorial_making_a_heap_allocator)
-* [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial) [In-progress]
+* [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial) `In-progress`
 * [Brickout](https://dashgl.com/Brickout/)
 * [Invaders](https://dashgl.com/Invaders/)
 * [Astroids](https://dashgl.com/Astroids/)
 * [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html)
-* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) [In-progress]
+* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) `In-progress`
 * Writing a Unix Shell
    * [Part 1](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
    * [Part 2](https://indradhanush.github.io/blog/writing-a-unix-shell-part-2)
@@ -106,10 +106,10 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Coding A Sudoku Solver in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW)
 * [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G)
 * [Learn Socket Programming in C from Scratch](https://www.udemy.com/learn-socket-programming-in-c-from-scratch/)
-* [Bitwise](https://github.com/pervognsen/bitwise) [In-progress]
-* [Handmade Hero](https://handmadehero.org/) [In-progress]
-* [Handmade Quake](https://www.youtube.com/playlist?list=PLBKDuv-qJpTbCsXHsxcoSSsMarnfyNhHF) [In-progress]
-* [Making a Text Adventure Game in C](https://www.youtube.com/watch?v=sLcrmZyWgaM) [In-progress]
+* [Bitwise](https://github.com/pervognsen/bitwise) `In-progress`
+* [Handmade Hero](https://handmadehero.org/) `In-progress`
+* [Handmade Quake](https://www.youtube.com/playlist?list=PLBKDuv-qJpTbCsXHsxcoSSsMarnfyNhHF) `In-progress`
+* [Making a Text Adventure Game in C](https://www.youtube.com/watch?v=sLcrmZyWgaM) `In-progress`
 
 ## Similar
 
