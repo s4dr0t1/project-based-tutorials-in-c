@@ -32,11 +32,11 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) `video`
 * [Game Engine Black Book: Wolfenstein 3D](https://www.amazon.com/dp/1539692876/) `book`
 * [Handmade Hero](https://handmadehero.org/) `video` `in-progress`
-* [Handmade Quake](https://www.youtube.com/playlist?list=PLBKDuv-qJpTbCsXHsxcoSSsMarnfyNhHF) `video` `In-progress`
+* [Handmade Quake](https://www.youtube.com/playlist?list=PLBKDuv-qJpTbCsXHsxcoSSsMarnfyNhHF) `video` `in-progress`
 * [Hangman](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) `video`
 * [Invaders Clone](https://dashgl.com/Invaders/)
 * [How to Program an NES game in C](https://nesdoug.com/)
-* [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) `In-progress`
+* [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) `in-progress`
 * [Learn Video Game Programming in C](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) `video`
 * [Let's Make: Dangerous Dave](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) `video`
 * [Making 8-bit Arcade Games in C](https://www.amazon.com/dp/1545484759/) `book`
@@ -54,6 +54,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * Let’s write a Kernel
     * [Part 1 - Kernel 101](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
     * [Part 2 - Kernel 201](https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard)
+* [Operating Systems Design and Implementation](https://www.amazon.com/dp/0131429388) `book`
 * [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) `book`
 * [The little book about OS development](https://littleosbook.github.io/) `book`
 * [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
