@@ -18,6 +18,8 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/html/multi/index.html) `book`
 * [Learn Socket Programming in C from Scratch](https://www.udemy.com/learn-socket-programming-in-c-from-scratch/) `video`
 * [Let's code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+* [Let's make a NTP Client in C](https://lettier.github.io/posts/2016-04-26-lets-make-a-ntp-client-in-c.html)
+* [Multiplayer WebSocket Game server written in C using libuv & libwebsockets & Cocos2d-x-HTML5](http://www.gamedevcraft.com/2016/08/part-1-multiplayer-websocket-game.html)
 
 ## Databases
 
