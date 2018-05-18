@@ -60,6 +60,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) `book`
 * [The little book about OS development](https://littleosbook.github.io/) `book`
 * [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+* [Write a Simple Memory Allocator](https://arjunsreedharan.org/post/148675821737/write-a-simple-memory-allocator)
 * [Write a System Call](https://brennan.io/2016/11/14/kernel-dev-ep3/)
 * [Writing a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
 * Writing a Unix Shell
