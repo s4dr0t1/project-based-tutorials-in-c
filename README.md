@@ -15,8 +15,7 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Tutorials
 
-* `*` Recommended tutorials
-
+* `*` Recommended
 
 ### Computer Networking
 
@@ -79,7 +78,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [A Retargetable C Compiler: Design and Implementation](https://www.amazon.com/dp/0805316701/) `book`
 * [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) `book` `*`
-* [Crafting Interpreters](http://www.craftinginterpreters.com/) `book` `in-progress`
+* [Crafting Interpreters](http://www.craftinginterpreters.com/) `book` `in-progress` `*`
 * [Implementing a Virtual Machine in C](https://felixangell.com/blog/virtual-machine-in-c) `*`
 * [Let's Build a Compiler: A C & x86 version](https://github.com/lotabout/Let-s-build-a-compiler)
 * [Modern Compiler Implementation in C](https://www.amazon.com/dp/052158390X/) `book`
