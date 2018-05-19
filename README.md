@@ -45,6 +45,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Making a Text Adventure Game in C](https://www.youtube.com/watch?v=sLcrmZyWgaM) `video` `in-progress`
 * [Simple Tic Tac Toe in C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc7_ZgXA-gIXmME41Rs2GP5) `video`
 * [Sudoku Programming with C](https://www.amazon.com/dp/1484209966/) `book`
+* [Tic-tac-toe Game in C with SDL](https://www.youtube.com/watch?v=gCVMkKgs3uQ) `video`
 
 ## Operating Systems
 
