@@ -13,7 +13,12 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Other Resources](#other-resources)
 
 
-## Computer Networking
+## Tutorials
+
+* `*` Recommended tutorials
+
+
+### Computer Networking
 
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/html/multi/index.html) `book`
 * [Learn Socket Programming in C from Scratch](https://www.udemy.com/learn-socket-programming-in-c-from-scratch/) `video`
@@ -21,18 +26,18 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Let's make a NTP Client in C](https://lettier.github.io/posts/2016-04-26-lets-make-a-ntp-client-in-c.html)
 * [Multiplayer WebSocket Game server written in C using libuv & libwebsockets & Cocos2d-x-HTML5](http://www.gamedevcraft.com/2016/08/part-1-multiplayer-websocket-game.html)
 
-## Databases
+### Databases
 
-* [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
+* [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/) `*`
 
-## Game Development
+### Game Development
 
 * [Astroids Clone](https://dashgl.com/Astroids/)
 * [Brickout Clone](https://dashgl.com/Brickout/)
-* [Chess Engine In C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) `video`
+* [Chess Engine In C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) `video` `*`
 * [Coding A Sudoku Solver in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) `video`
 * [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) `video`
-* [Game Engine Black Book: Wolfenstein 3D](https://www.amazon.com/dp/1539692876/) `book`
+* [Game Engine Black Book: Wolfenstein 3D](https://www.amazon.com/dp/1539692876/) `book` `*`
 * [Handmade Hero](https://handmadehero.org/) `video` `in-progress`
 * [Handmade Quake](https://www.youtube.com/playlist?list=PLBKDuv-qJpTbCsXHsxcoSSsMarnfyNhHF) `video` `in-progress`
 * [Hangman](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) `video`
@@ -40,17 +45,17 @@ A list of tutorials that work towards the making of small to large projects in C
 * [How to Program an NES game in C](https://nesdoug.com/)
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) `in-progress`
 * [Learn Video Game Programming in C](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) `video`
-* [Let's Make: Dangerous Dave](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) `video`
+* [Let's Make: Dangerous Dave](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) `video` `*`
 * [Making 8-bit Arcade Games in C](https://www.amazon.com/dp/1545484759/) `book`
 * [Making a Text Adventure Game in C](https://www.youtube.com/watch?v=sLcrmZyWgaM) `video` `in-progress`
 * [Simple Tic Tac Toe in C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc7_ZgXA-gIXmME41Rs2GP5) `video`
 * [Sudoku Programming with C](https://www.amazon.com/dp/1484209966/) `book`
 * [Tic-tac-toe Game in C with SDL](https://www.youtube.com/watch?v=gCVMkKgs3uQ) `video`
 
-## Operating Systems
+### Operating Systems
 
 * [Bitwise](https://github.com/pervognsen/bitwise) `video` `in-progress`
-* [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/)
+* [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/) `*`
 * [Hack the Virtual Memory](https://blog.holbertonschool.com/hack-virtual-memory-stack-registers-assembly-code/)
 * [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial) `in-progress`
 * [Let's Write a Malloc](https://danluu.com/malloc-tutorial/)
@@ -60,22 +65,22 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Operating Systems Design and Implementation](https://www.amazon.com/dp/0131429388) `book`
 * [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) `book`
 * [The little book about OS development](https://littleosbook.github.io/) `book`
-* [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+* [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/) `*`
 * [Write a Simple Memory Allocator](https://arjunsreedharan.org/post/148675821737/write-a-simple-memory-allocator)
-* [Write a System Call](https://brennan.io/2016/11/14/kernel-dev-ep3/)
+* [Write a System Call](https://brennan.io/2016/11/14/kernel-dev-ep3/) `*`
 * [Writing a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
 * Writing a Unix Shell
    * [Part 1](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1)
    * [Part 2](https://indradhanush.github.io/blog/writing-a-unix-shell-part-2)
    * [Part 3](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3)
 
-## Programming Languages
+### Programming Languages
 
 * [A Retargetable C Compiler: Design and Implementation](https://www.amazon.com/dp/0805316701/) `book`
 * [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
-* [Build Your Own Lisp](http://www.buildyourownlisp.com/) `book`
+* [Build Your Own Lisp](http://www.buildyourownlisp.com/) `book` `*`
 * [Crafting Interpreters](http://www.craftinginterpreters.com/) `book` `in-progress`
-* [Implementing a Virtual Machine in C](https://felixangell.com/blog/virtual-machine-in-c)
+* [Implementing a Virtual Machine in C](https://felixangell.com/blog/virtual-machine-in-c) `*`
 * [Let's Build a Compiler: A C & x86 version](https://github.com/lotabout/Let-s-build-a-compiler)
 * [Modern Compiler Implementation in C](https://www.amazon.com/dp/052158390X/) `book`
 * Write a C Interpreter
@@ -115,10 +120,10 @@ A list of tutorials that work towards the making of small to large projects in C
     * [Part 23 - Garbage Collection](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_22-garbage-collection)
     * [Part 24 - Conclusion](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-conclusion)
 
-## Uncategorized
+### Uncategorized
 
 * [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
-* [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
+* [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/) `*`
 * [Emulator 101](http://emulator101.com/)
 * [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html)
 * [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) `in-progress`
