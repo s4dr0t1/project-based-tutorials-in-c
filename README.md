@@ -77,6 +77,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Implementing a Virtual Machine in C](https://felixangell.com/blog/virtual-machine-in-c)
 * [Let's Build a Compiler: A C & x86 version](https://github.com/lotabout/Let-s-build-a-compiler)
 * [Modern Compiler Implementation in C](https://www.amazon.com/dp/052158390X/) `book`
+* [Compiler Design in C](https://www.amazon.com/dp/0131550454) `book`
 * Write a C Interpreter
     * [Part 0 - Preface](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/0-Preface.md)
     * [Part 1 - Skeleton](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/1-Skeleton.md)
