@@ -12,12 +12,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Uncategorized](#uncategorized)
 * [Other Resources](#other-resources)
 
-
-## Tutorials
-
-* `*` Recommended
-
-### Computer Networking
+## Computer Networking
 
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/html/multi/index.html) `book`
 * [Learn Socket Programming in C from Scratch](https://www.udemy.com/learn-socket-programming-in-c-from-scratch/) `video`
@@ -25,11 +20,11 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Let's make a NTP Client in C](https://lettier.github.io/posts/2016-04-26-lets-make-a-ntp-client-in-c.html)
 * [Multiplayer WebSocket Game server written in C using libuv & libwebsockets & Cocos2d-x-HTML5](http://www.gamedevcraft.com/2016/08/part-1-multiplayer-websocket-game.html)
 
-### Databases
+## Databases
 
 * [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/) `*`
 
-### Game Development
+## Game Development
 
 * [Astroids Clone](https://dashgl.com/Astroids/)
 * [Brickout Clone](https://dashgl.com/Brickout/)
@@ -51,7 +46,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Sudoku Programming with C](https://www.amazon.com/dp/1484209966/) `book`
 * [Tic-tac-toe Game in C with SDL](https://www.youtube.com/watch?v=gCVMkKgs3uQ) `video`
 
-### Operating Systems
+## Operating Systems
 
 * [Bitwise](https://github.com/pervognsen/bitwise) `video` `in-progress`
 * [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/) `*`
@@ -73,12 +68,12 @@ A list of tutorials that work towards the making of small to large projects in C
    * [Part 2](https://indradhanush.github.io/blog/writing-a-unix-shell-part-2)
    * [Part 3](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3)
 
-### Programming Languages
+## Programming Languages
 
 * [A Retargetable C Compiler: Design and Implementation](https://www.amazon.com/dp/0805316701/) `book`
 * [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
-* [Build Your Own Lisp](http://www.buildyourownlisp.com/) `book` `*`
-* [Crafting Interpreters](http://www.craftinginterpreters.com/) `book` `in-progress` `*`
+* [Build Your Own Lisp](http://www.buildyourownlisp.com/) `book`
+* [Crafting Interpreters](http://www.craftinginterpreters.com/) `book` `in-progress`
 * [Implementing a Virtual Machine in C](https://felixangell.com/blog/virtual-machine-in-c) `*`
 * [Let's Build a Compiler: A C & x86 version](https://github.com/lotabout/Let-s-build-a-compiler)
 * [Modern Compiler Implementation in C](https://www.amazon.com/dp/052158390X/) `book`
@@ -119,7 +114,7 @@ A list of tutorials that work towards the making of small to large projects in C
     * [Part 23 - Garbage Collection](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_22-garbage-collection)
     * [Part 24 - Conclusion](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-conclusion)
 
-### Uncategorized
+## Uncategorized
 
 * [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
 * [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/) `*`
