@@ -6,7 +6,7 @@ A list of tutorials that work towards the making of small to large projects in C
 
 * [Computer Networking](#computer-networking)
 * [Databases](#databases)
-* [Game Development](#game-programming)
+* [Game Development](#game-development)
 * [Operating Systems](#operating-systems)
 * [Programming Languages](#programming-languages)
 * [Uncategorized](#uncategorized)
