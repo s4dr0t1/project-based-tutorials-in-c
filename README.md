@@ -73,11 +73,11 @@ A list of tutorials that work towards the making of small to large projects in C
 * [A Retargetable C Compiler: Design and Implementation](https://www.amazon.com/dp/0805316701/) `book`
 * [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) `book`
+* [Compiler Design in C](https://www.amazon.com/dp/0131550454) `book`
 * [Crafting Interpreters](http://www.craftinginterpreters.com/) `book` `in-progress`
 * [Implementing a Virtual Machine in C](https://felixangell.com/blog/virtual-machine-in-c)
 * [Let's Build a Compiler: A C & x86 version](https://github.com/lotabout/Let-s-build-a-compiler)
 * [Modern Compiler Implementation in C](https://www.amazon.com/dp/052158390X/) `book`
-* [Compiler Design in C](https://www.amazon.com/dp/0131550454) `book`
 * Write a C Interpreter
     * [Part 0 - Preface](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/0-Preface.md)
     * [Part 1 - Skeleton](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/1-Skeleton.md)
@@ -140,3 +140,6 @@ A list of tutorials that work towards the making of small to large projects in C
     * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
     * [Projects-from-Scratch](https://github.com/AlgoryL/Projects-from-Scratch)
     * [Project Based Learning](https://github.com/tuvtran/project-based-learning)
+* C
+    * [awesome-c](https://github.com/kozross/awesome-c)
+    * [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
