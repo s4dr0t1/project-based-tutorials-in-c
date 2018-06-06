@@ -52,6 +52,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/)
 * [Hack the Virtual Memory](https://blog.holbertonschool.com/hack-virtual-memory-stack-registers-assembly-code/)
 * [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial) `in-progress`
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) `in-progress`
 * [Let's Write a Malloc](https://danluu.com/malloc-tutorial/)
 * Let’s write a Kernel
     * [Part 1 - Kernel 101](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
