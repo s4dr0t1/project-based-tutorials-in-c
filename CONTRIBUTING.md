@@ -12,3 +12,4 @@
         ...
     ```
 * If submitting a video series link directly to playtlist when possible (i.e. [Learn Video Game Programming in C](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt))
+* Mark tutorial(s) with appropriate tags: `book`, `video`, `in-progress`. (i.e. Handmade Hero `video` `in-progress`)
