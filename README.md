@@ -16,7 +16,12 @@ A list of tutorials that work towards the making of small to large projects in C
 
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/html/multi/index.html) `book`
 * [Learn Socket Programming in C from Scratch](https://www.udemy.com/learn-socket-programming-in-c-from-scratch/) `video`
-* [Let's code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+* Let's code a TCP/IP stack
+    * [Part 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+    * [Part 2: IPv4 & ICMPv4](http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/)
+    * [Part 3: TCP Basics & Handshake](http://www.saminiir.com/lets-code-tcp-ip-stack-3-tcp-handshake/)
+    * [Part 4: TCP Data Flow & Socket API](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)
+    * [Part 5: TCP Retransmission](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
 * [Let's make a NTP Client in C](https://lettier.github.io/posts/2016-04-26-lets-make-a-ntp-client-in-c.html)
 * [Multiplayer WebSocket Game server written in C using libuv & libwebsockets & Cocos2d-x-HTML5](http://www.gamedevcraft.com/2016/08/part-1-multiplayer-websocket-game.html)
 
