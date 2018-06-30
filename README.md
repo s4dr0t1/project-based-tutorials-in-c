@@ -129,6 +129,8 @@ A list of tutorials that work towards the making of small to large projects in C
 * [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html)
 * [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) `in-progress`
 * [Linux Containers in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+* [Rewrite cat](https://learnto.computer/screencasts/bsd-cat) `video`
+* [Rewrite mkdir](https://learnto.computer/screencasts/bsd-mkdir) `video`
 * [Making a Heap Allocator](https://handmade.network/wiki/2877-tutorial_making_a_heap_allocator)
 * [The Audio Programming Book](https://www.amazon.com/Audio-Programming-Book-MIT-Press/dp/0262014467/) `book`
 * [The Craft of Text Editing](https://www.amazon.com/dp/1411682971/) `book`
