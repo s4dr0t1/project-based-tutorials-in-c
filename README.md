@@ -15,6 +15,7 @@ A list of tutorials that work towards the making of small to large projects in C
 ## Computer Networking
 
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/html/multi/index.html) `book`
+* [Concurrent Servers](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
 * [Learn Socket Programming in C from Scratch](https://www.udemy.com/learn-socket-programming-in-c-from-scratch/) `video`
 * Let's code a TCP/IP stack
     * [Part 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
@@ -139,6 +140,9 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Other Resources
 
+* C
+    * [awesome-c](https://github.com/kozross/awesome-c)
+    * [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
 * Practice Projects
     * [Beginner Projects](https://github.com/jorgegonzalez/beginner-projects)
     * [Mega Project List](https://github.com/karan/Projects)
@@ -148,6 +152,3 @@ A list of tutorials that work towards the making of small to large projects in C
     * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
     * [Projects-from-Scratch](https://github.com/AlgoryL/Projects-from-Scratch)
     * [Project Based Learning](https://github.com/tuvtran/project-based-learning)
-* C
-    * [awesome-c](https://github.com/kozross/awesome-c)
-    * [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
