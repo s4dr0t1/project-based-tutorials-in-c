@@ -70,6 +70,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Write a Simple Memory Allocator](https://arjunsreedharan.org/post/148675821737/write-a-simple-memory-allocator)
 * [Write a System Call](https://brennan.io/2016/11/14/kernel-dev-ep3/)
 * [Writing a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
+* [Writing a shell in C](https://prakashdanish.github.io/2018/01/15/write-a-shell.html)
 * Writing a Unix Shell
    * [Part 1](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1)
    * [Part 2](https://indradhanush.github.io/blog/writing-a-unix-shell-part-2)
