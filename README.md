@@ -48,6 +48,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Let's Make: Dangerous Dave](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) `video`
 * [Making 8-bit Arcade Games in C](https://www.amazon.com/dp/1545484759/) `book`
 * [Making a Text Adventure Game in C](https://www.youtube.com/watch?v=sLcrmZyWgaM) `video` `in-progress`
+* [SDL 2 Isometric Game Tutorial](https://www.youtube.com/playlist?list=PLsM5EdVxpsQ3YTGlFaOwZsWEWoLVQEkQz) `video` `in-progress`
 * [Simple Tic Tac Toe in C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc7_ZgXA-gIXmME41Rs2GP5) `video`
 * [Sudoku Programming with C](https://www.amazon.com/dp/1484209966/) `book`
 * [Tic-tac-toe Game in C with SDL](https://www.youtube.com/watch?v=gCVMkKgs3uQ) `video`
