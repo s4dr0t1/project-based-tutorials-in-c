@@ -126,6 +126,9 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Uncategorized
 
+* A dummy blockchain implementation in C
+   * [Part 1](https://myram.xyz/c-blockchain-implementation-1/)
+   * [Part 2](https://myram.xyz/c-blockchain-implementation-2/)
 * [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
 * [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
 * [Emulator 101](http://emulator101.com/)
