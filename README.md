@@ -141,6 +141,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [The Audio Programming Book](https://www.amazon.com/Audio-Programming-Book-MIT-Press/dp/0262014467/) `book`
 * [The Craft of Text Editing](https://www.amazon.com/dp/1411682971/) `book`
 * [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
+* [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 * [Writing an SVG Library](http://www.code-in-c.com/writing-svg-library-c/)
 
 ## Other Resources
