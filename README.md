@@ -136,8 +136,8 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) `in-progress`
 * [Linux Containers in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 * [Rewrite cat](https://learnto.computer/screencasts/bsd-cat) `video`
-* Rewrite mkdir
-   * [mkdir](https://learnto.computer/screencasts/bsd-mkdir) `video`
+* Rewrite mkdir `video`
+   * [mkdir](https://learnto.computer/screencasts/bsd-mkdir)
    * [Building paths for mkdir -p](https://learnto.computer/screencasts/bsd-mkdir-p)
 * [Making a Heap Allocator](https://handmade.network/wiki/2877-tutorial_making_a_heap_allocator)
 * [The Audio Programming Book](https://www.amazon.com/Audio-Programming-Book-MIT-Press/dp/0262014467/) `book`
