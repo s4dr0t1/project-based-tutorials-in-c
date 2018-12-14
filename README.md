@@ -41,13 +41,14 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Handmade Hero](https://handmadehero.org/) `video` `in-progress`
 * [Handmade Quake](https://www.youtube.com/playlist?list=PLBKDuv-qJpTbCsXHsxcoSSsMarnfyNhHF) `video` `abandoned`
 * [Hangman](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) `video`
-* [Invaders Clone](https://dashgl.com/Invaders/)
 * [How to Program an NES game in C](https://nesdoug.com/)
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) `in-progress`
+* [Invaders Clone](https://dashgl.com/Invaders/)
 * [Learn Video Game Programming in C](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) `video`
 * [Let's Make: Dangerous Dave](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) `video`
 * [Making 8-bit Arcade Games in C](https://www.amazon.com/dp/1545484759/) `book`
 * [Making a Text Adventure Game in C](https://www.youtube.com/watch?v=sLcrmZyWgaM) `video` `in-progress`
+* [On Tetris and Reimplementation](https://brennan.io/2015/06/12/tetris-reimplementation/)
 * [SDL 2 Isometric Game Tutorial](https://www.youtube.com/playlist?list=PLsM5EdVxpsQ3YTGlFaOwZsWEWoLVQEkQz) `video` `in-progress`
 * [Simple Tic Tac Toe in C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc7_ZgXA-gIXmME41Rs2GP5) `video`
 * [Sudoku Programming with C](https://www.amazon.com/dp/1484209966/) `book`
@@ -64,8 +65,10 @@ A list of tutorials that work towards the making of small to large projects in C
 * Let’s write a Kernel
     * [Part 1 - Kernel 101](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
     * [Part 2 - Kernel 201](https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard)
+* [Operating systems development for Dummies](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
 * [Operating Systems Design and Implementation](https://www.amazon.com/dp/0131429388) `book`
 * [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) `book`
+* [Roll your own toy UNIX-clone OS](http://www.jamesmolloy.co.uk/tutorial_html/)
 * [The little book about OS development](https://littleosbook.github.io/) `book`
 * [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 * [Write a Simple Memory Allocator](https://arjunsreedharan.org/post/148675821737/write-a-simple-memory-allocator)
@@ -144,6 +147,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [The Craft of Text Editing](https://www.amazon.com/dp/1411682971/) `book`
 * [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
+* [Writing a Game Boy emulator](https://cturt.github.io/cinoop.html)
 * [Writing an SVG Library](http://www.code-in-c.com/writing-svg-library-c/)
 
 ## Other Resources
