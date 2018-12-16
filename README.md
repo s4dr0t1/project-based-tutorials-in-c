@@ -4,6 +4,7 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Table of Contents
 
+* [Computer Architecture](#computer-architecture)
 * [Computer Networking](#computer-networking)
 * [Databases](#databases)
 * [Game Development](#game-development)
@@ -11,6 +12,14 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Programming Languages](#programming-languages)
 * [Uncategorized](#uncategorized)
 * [Other Resources](#other-resources)
+
+## Computer Architecture
+
+* [Bitwise](https://github.com/pervognsen/bitwise) `video` `in-progress`
+* [Emulator 101](http://emulator101.com/)
+* [Implementing a Virtual Machine in C](https://felixangell.com/blog/virtual-machine-in-c)
+* [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
+* [Writing a Game Boy emulator](https://cturt.github.io/cinoop.html)
 
 ## Computer Networking
 
@@ -56,7 +65,6 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Operating Systems
 
-* [Bitwise](https://github.com/pervognsen/bitwise) `video` `in-progress`
 * [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/)
 * [Hack the Virtual Memory](https://blog.holbertonschool.com/hack-virtual-memory-stack-registers-assembly-code/)
 * [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial) `in-progress`
@@ -87,7 +95,6 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) `book`
 * [Compiler Design in C](https://www.amazon.com/dp/0131550454) `book`
 * [Crafting Interpreters](http://www.craftinginterpreters.com/) `book` `in-progress`
-* [Implementing a Virtual Machine in C](https://felixangell.com/blog/virtual-machine-in-c)
 * [Let's Build a Compiler: A C & x86 version](https://github.com/lotabout/Let-s-build-a-compiler)
 * [Modern Compiler Implementation in C](https://www.amazon.com/dp/052158390X/) `book`
 * Write a C Interpreter
@@ -134,7 +141,6 @@ A list of tutorials that work towards the making of small to large projects in C
    * [Part 2](https://myram.xyz/c-blockchain-implementation-2/)
 * [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
 * [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
-* [Emulator 101](http://emulator101.com/)
 * [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html)
 * [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) `in-progress`
 * [Linux Containers in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
@@ -142,12 +148,9 @@ A list of tutorials that work towards the making of small to large projects in C
 * Rewrite mkdir `video`
    * [mkdir](https://learnto.computer/screencasts/bsd-mkdir)
    * [Building paths for mkdir -p](https://learnto.computer/screencasts/bsd-mkdir-p)
-* [Making a Heap Allocator](https://handmade.network/wiki/2877-tutorial_making_a_heap_allocator)
 * [The Audio Programming Book](https://www.amazon.com/Audio-Programming-Book-MIT-Press/dp/0262014467/) `book`
 * [The Craft of Text Editing](https://www.amazon.com/dp/1411682971/) `book`
 * [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
-* [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
-* [Writing a Game Boy emulator](https://cturt.github.io/cinoop.html)
 * [Writing an SVG Library](http://www.code-in-c.com/writing-svg-library-c/)
 
 ## Other Resources
