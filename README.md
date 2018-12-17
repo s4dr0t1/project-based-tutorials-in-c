@@ -46,7 +46,6 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Chess Engine In C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) `video`
 * [Coding A Sudoku Solver in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) `video`
 * [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) `video`
-* [Game Engine Black Book: Wolfenstein 3D](https://www.amazon.com/dp/1539692876/) `book`
 * [Handmade Hero](https://handmadehero.org/) `video` `in-progress`
 * [Handmade Quake](https://www.youtube.com/playlist?list=PLBKDuv-qJpTbCsXHsxcoSSsMarnfyNhHF) `video` `abandoned`
 * [Hangman](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) `video`
@@ -55,12 +54,10 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Invaders Clone](https://dashgl.com/Invaders/)
 * [Learn Video Game Programming in C](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) `video`
 * [Let's Make: Dangerous Dave](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) `video`
-* [Making 8-bit Arcade Games in C](https://www.amazon.com/dp/1545484759/) `book`
 * [Making a Text Adventure Game in C](https://www.youtube.com/watch?v=sLcrmZyWgaM) `video` `in-progress`
 * [On Tetris and Reimplementation](https://brennan.io/2015/06/12/tetris-reimplementation/)
 * [SDL 2 Isometric Game Tutorial](https://www.youtube.com/playlist?list=PLsM5EdVxpsQ3YTGlFaOwZsWEWoLVQEkQz) `video` `in-progress`
 * [Simple Tic Tac Toe in C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc7_ZgXA-gIXmME41Rs2GP5) `video`
-* [Sudoku Programming with C](https://www.amazon.com/dp/1484209966/) `book`
 * [Tic-tac-toe Game in C with SDL](https://www.youtube.com/watch?v=gCVMkKgs3uQ) `video`
 
 ## Operating Systems
@@ -90,13 +87,10 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Programming Languages
 
-* [A Retargetable C Compiler: Design and Implementation](https://www.amazon.com/dp/0805316701/) `book`
 * [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) `book`
-* [Compiler Design in C](https://www.amazon.com/dp/0131550454) `book`
 * [Crafting Interpreters](http://www.craftinginterpreters.com/) `book` `in-progress`
 * [Let's Build a Compiler: A C & x86 version](https://github.com/lotabout/Let-s-build-a-compiler)
-* [Modern Compiler Implementation in C](https://www.amazon.com/dp/052158390X/) `book`
 * Write a C Interpreter
     * [Part 0 - Preface](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/0-Preface.md)
     * [Part 1 - Skeleton](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/1-Skeleton.md)
@@ -148,8 +142,6 @@ A list of tutorials that work towards the making of small to large projects in C
 * Rewrite mkdir `video`
    * [mkdir](https://learnto.computer/screencasts/bsd-mkdir)
    * [Building paths for mkdir -p](https://learnto.computer/screencasts/bsd-mkdir-p)
-* [The Audio Programming Book](https://www.amazon.com/Audio-Programming-Book-MIT-Press/dp/0262014467/) `book`
-* [The Craft of Text Editing](https://www.amazon.com/dp/1411682971/) `book`
 * [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
 * [Writing an SVG Library](http://www.code-in-c.com/writing-svg-library-c/)
 
