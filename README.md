@@ -71,7 +71,6 @@ A list of tutorials that work towards the making of small to large projects in C
     * [Part 1 - Kernel 101](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
     * [Part 2 - Kernel 201](https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard)
 * [Operating systems development for Dummies](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
-* [Operating Systems Design and Implementation](https://www.amazon.com/dp/0131429388) `book`
 * [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) `book`
 * [Roll your own toy UNIX-clone OS](http://www.jamesmolloy.co.uk/tutorial_html/)
 * [The little book about OS development](https://littleosbook.github.io/) `book`
