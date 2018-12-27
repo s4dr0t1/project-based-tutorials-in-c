@@ -54,7 +54,6 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Invaders Clone](https://dashgl.com/Invaders/)
 * [Learn Video Game Programming in C](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) `video`
 * [Let's Make: Dangerous Dave](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) `video`
-* [Making a Text Adventure Game in C](https://www.youtube.com/watch?v=sLcrmZyWgaM) `video` `in-progress`
 * [On Tetris and Reimplementation](https://brennan.io/2015/06/12/tetris-reimplementation/)
 * [SDL 2 Isometric Game Tutorial](https://www.youtube.com/playlist?list=PLsM5EdVxpsQ3YTGlFaOwZsWEWoLVQEkQz) `video` `in-progress`
 * [Simple Tic Tac Toe in C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc7_ZgXA-gIXmME41Rs2GP5) `video`
