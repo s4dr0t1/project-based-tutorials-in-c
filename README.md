@@ -57,13 +57,20 @@ A list of tutorials that work towards the making of small to large projects in C
 * [SDL 2 Isometric Game Tutorial](https://www.youtube.com/playlist?list=PLsM5EdVxpsQ3YTGlFaOwZsWEWoLVQEkQz) `video` `in-progress`
 * [Simple Tic Tac Toe in C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc7_ZgXA-gIXmME41Rs2GP5) `video`
 * [Tic-tac-toe Game in C with SDL](https://www.youtube.com/watch?v=gCVMkKgs3uQ) `video`
+* Video Game Physics Tutorial
+   * [Part I: An Introduction to Rigid Body Dynamics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
+   * [Part II: Collision Detection for Solid Objects](https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects)
+   * [Part III: Constrained Rigid Body Simulation](https://www.toptal.com/game/video-game-physics-part-iii-constrained-rigid-body-simulation)
 
 ## Operating Systems
 
+* [Build a minimal multi-tasking OS kernel for ARM from scratch](https://github.com/jserv/mini-arm-os)
+* [Build Your Own Shell](https://github.com/tokenrove/build-your-own-shell)
 * [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/)
 * [Hack the Virtual Memory](https://blog.holbertonschool.com/hack-virtual-memory-stack-registers-assembly-code/)
 * [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial) `in-progress`
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) `in-progress`
+* [Let's build a shell!](https://github.com/kamalmarhubi/shell-workshop)
 * [Let's Write a Malloc](https://danluu.com/malloc-tutorial/)
 * Let’s write a Kernel
     * [Part 1 - Kernel 101](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
