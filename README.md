@@ -75,8 +75,13 @@ A list of tutorials that work towards the making of small to large projects in C
 * Let’s write a Kernel
     * [Part 1 - Kernel 101](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
     * [Part 2 - Kernel 201](https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard)
+* [Linux Containers in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 * [Operating systems development for Dummies](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
 * [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) `book`
+* [Rewrite cat](https://learnto.computer/screencasts/bsd-cat) `video`
+* Rewrite mkdir `video`
+   * [mkdir](https://learnto.computer/screencasts/bsd-mkdir)
+   * [Building paths for mkdir -p](https://learnto.computer/screencasts/bsd-mkdir-p)
 * [Roll your own toy UNIX-clone OS](http://www.jamesmolloy.co.uk/tutorial_html/)
 * [The little book about OS development](https://littleosbook.github.io/) `book`
 * [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
@@ -91,6 +96,8 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Programming Languages
 
+* [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
+* [A Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html)
 * [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) `book`
 * [Crafting Interpreters](http://www.craftinginterpreters.com/) `book` `in-progress`
@@ -137,15 +144,9 @@ A list of tutorials that work towards the making of small to large projects in C
 * A dummy blockchain implementation in C
    * [Part 1](https://myram.xyz/c-blockchain-implementation-1/)
    * [Part 2](https://myram.xyz/c-blockchain-implementation-2/)
-* [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
 * [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
 * [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html)
 * [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) `in-progress`
-* [Linux Containers in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
-* [Rewrite cat](https://learnto.computer/screencasts/bsd-cat) `video`
-* Rewrite mkdir `video`
-   * [mkdir](https://learnto.computer/screencasts/bsd-mkdir)
-   * [Building paths for mkdir -p](https://learnto.computer/screencasts/bsd-mkdir-p)
 * [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
 * [Writing an SVG Library](http://www.code-in-c.com/writing-svg-library-c/)
 
