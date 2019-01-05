@@ -18,8 +18,14 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Bitwise](https://github.com/pervognsen/bitwise) `video` `in-progress`
 * [Emulator 101](http://emulator101.com/)
 * [Implementing a Virtual Machine in C](https://felixangell.com/blog/virtual-machine-in-c)
-* [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
+* Writing a Chip 8 Emulator `in-progress`
+   * [Part 1](http://craigthomas.ca/blog/2014/06/21/writing-a-chip-8-emulator-part-1/)
+   * [Part 2](http://craigthomas.ca/blog/2014/07/17/writing-a-chip-8-emulator-part-2/)
+   * [Part 3](http://craigthomas.ca/blog/2015/02/19/writing-a-chip-8-emulator-draw-command-part-3/)
+   * [Part 4](http://craigthomas.ca/blog/2017/10/15/writing-a-chip-8-emulator-built-in-font-set-part-4/)
+   * [Part 5](http://craigthomas.ca/blog/2018/09/07/writing-a-chip-8-emulator-instruction-set-part-5/)
 * [Writing a Game Boy emulator](https://cturt.github.io/cinoop.html)
+* [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 
 ## Computer Networking
 
