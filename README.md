@@ -31,7 +31,6 @@ A list of tutorials that work towards the making of small to large projects in C
 
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/html/multi/index.html) `book`
 * [Concurrent Servers](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
-* [Learn Socket Programming in C from Scratch](https://www.udemy.com/learn-socket-programming-in-c-from-scratch/) `video`
 * Let's code a TCP/IP stack
     * [Part 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
     * [Part 2: IPv4 & ICMPv4](http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/)
