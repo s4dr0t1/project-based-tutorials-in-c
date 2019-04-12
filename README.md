@@ -39,6 +39,13 @@ A list of tutorials that work towards the making of small to large projects in C
     * [Part 5: TCP Retransmission](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
 * [Let's make a NTP Client in C](https://lettier.github.io/posts/2016-04-26-lets-make-a-ntp-client-in-c.html)
 * [Multiplayer WebSocket Game server written in C using libuv & libwebsockets & Cocos2d-x-HTML5](http://www.gamedevcraft.com/2016/08/part-1-multiplayer-websocket-game.html)
+* Write an MQTT broker from scratch
+    * [Part 1 - The protocol](https://codepr.github.io/posts/sol-mqtt-broker)
+    * [Part 2 - Networking](https://codepr.github.io/posts/sol-mqtt-broker-p2)
+    * [Part 3 - Server](https://codepr.github.io/posts/sol-mqtt-broker-p3)
+    * [Part 4 - Data structures](https://codepr.github.io/posts/sol-mqtt-broker-p4)
+    * [Part 5 - Topic abstraction](https://codepr.github.io/posts/sol-mqtt-broker-p5)
+    * [Part 6 - Handlers](https://codepr.github.io/posts/sol-mqtt-broker-p6)
 
 ## Databases
 
@@ -75,6 +82,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/)
 * [Hack the Virtual Memory](https://blog.holbertonschool.com/hack-virtual-memory-stack-registers-assembly-code/)
 * [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial) `in-progress`
+* [Learning KVM - implement your own kernel](https://david942j.blogspot.com/2018/10/note-learning-kvm-implement-your-own.html)
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) `in-progress`
 * [Let's build a shell!](https://github.com/kamalmarhubi/shell-workshop)
 * [Let's Write a Malloc](https://danluu.com/malloc-tutorial/)
