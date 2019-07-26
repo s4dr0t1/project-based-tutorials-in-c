@@ -38,7 +38,6 @@ A list of tutorials that work towards the making of small to large projects in C
     * [Part 4: TCP Data Flow & Socket API](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)
     * [Part 5: TCP Retransmission](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
 * [Let's make a NTP Client in C](https://lettier.github.io/posts/2016-04-26-lets-make-a-ntp-client-in-c.html)
-* [Multiplayer WebSocket Game server written in C using libuv & libwebsockets & Cocos2d-x-HTML5](http://www.gamedevcraft.com/2016/08/part-1-multiplayer-websocket-game.html)
 * Write an MQTT broker from scratch
     * [Part 1 - The protocol](https://codepr.github.io/posts/sol-mqtt-broker)
     * [Part 2 - Networking](https://codepr.github.io/posts/sol-mqtt-broker-p2)
