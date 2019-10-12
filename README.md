@@ -52,8 +52,8 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Game Development
 
-* [Astroids Clone](https://dashgl.com/Astroids/)
-* [Brickout Clone](https://dashgl.com/Brickout/)
+* [Astroids Clone](https://gtk.dashgl.com/?folder=Astroids)
+* [Brickout Clone](https://gtk.dashgl.com/?folder=Brickout)
 * [Chess Engine In C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) `video`
 * [Coding A Sudoku Solver in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) `video`
 * [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) `video`
@@ -61,7 +61,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Hangman](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) `video`
 * [How to Program an NES game in C](https://nesdoug.com/)
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) `in-progress`
-* [Invaders Clone](https://dashgl.com/Invaders/)
+* [Invaders Clone](https://gtk.dashgl.com/?folder=Invaders)
 * [Learn Video Game Programming in C](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) `video`
 * [Let's Make: Dangerous Dave](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) `video`
 * [On Tetris and Reimplementation](https://brennan.io/2015/06/12/tetris-reimplementation/)
