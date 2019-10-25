@@ -65,6 +65,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [How to Program an NES game in C](https://nesdoug.com/)
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) `in-progress`
 * [Invaders Clone](https://gtk.dashgl.com/?folder=Invaders)
+* [Learn How To Develop Your Own GameBoy Games](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo) `video` `in-progress`
 * [Learn Video Game Programming in C](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) `video`
 * [Let's Make: Dangerous Dave](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) `video`
 * [On Tetris and Reimplementation](https://brennan.io/2015/06/12/tetris-reimplementation/)
