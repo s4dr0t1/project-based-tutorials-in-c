@@ -166,13 +166,13 @@ A list of tutorials that work towards the making of small to large projects in C
 * [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html)
 * [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) `in-progress`
 * [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
-* [Writing an SVG Library](http://www.code-in-c.com/writing-svg-library-c/)
+* [Writing an SVG Library](http://www.codedrome.com/svg-library-in-c/)
 
 ## Other Resources
 
 * C
     * [awesome-c](https://github.com/kozross/awesome-c)
-    * [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
+    * [Modern C](https://gforge.inria.fr/frs/download.php/latestfile/5298/ModernC.pdf)
     * A Guide to Undefined Behavior in C and C++
       * [Part 1](https://blog.regehr.org/archives/213)
       * [Part 2](https://blog.regehr.org/archives/226)
