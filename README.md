@@ -119,6 +119,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [A Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html)
 * [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) `book`
+* [Compiler Design in C](https://holub.com/goodies/compiler/compilerDesignInC.pdf) `book`
 * [Crafting Interpreters](http://www.craftinginterpreters.com/) `book` `in-progress`
 * [Let's Build a Compiler: A C & x86 version](https://github.com/lotabout/Let-s-build-a-compiler)
 * Write a C Interpreter
