@@ -52,6 +52,7 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Game Development
 
+* [Write The Old-School Fire Effect and Bare-Metal Programming in Assembly and C](https://www.hanshq.net/fire.html)
 * [Astroids Clone](https://gtk.dashgl.com/?folder=Astroids)
 * [Brickout Clone](https://gtk.dashgl.com/?folder=Brickout)
 * [Chess Engine In C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) `video`
