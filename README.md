@@ -169,6 +169,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html)
 * [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) `in-progress`
 * [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
+* [Write Your Own Zip from scratch in C](https://www.hanshq.net/zip.html)
 * [Writing an SVG Library](http://www.codedrome.com/svg-library-in-c/)
 
 ## Other Resources
