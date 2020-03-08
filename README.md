@@ -59,6 +59,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Coding A Sudoku Solver in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) `video`
 * [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) `video`
 * [Creating a 2D platformer](https://www.parallelrealities.co.uk/tutorials/#ppp)
+* [Write Othello Game from scratch in C](https://www.hanshq.net/othello.html)
 * [Creating a 2D shoot 'em up](https://www.parallelrealities.co.uk/tutorials/#shooter)
 * [Creating a 2D top-down shooter](https://www.parallelrealities.co.uk/tutorials/#bad)
 * [Handmade Hero](https://handmadehero.org/) `video` `in-progress`
