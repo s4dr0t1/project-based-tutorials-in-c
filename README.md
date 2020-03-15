@@ -174,28 +174,3 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Write BigInt Calculator in C](https://www.hanshq.net/bigint.html)
 * [Write Your Own Zip from scratch in C](https://www.hanshq.net/zip.html)
 * [Writing an SVG Library](http://www.codedrome.com/svg-library-in-c/)
-
-## Other Resources
-
-* C
-    * [awesome-c](https://github.com/kozross/awesome-c)
-    * [Modern C](https://gforge.inria.fr/frs/download.php/latestfile/5298/ModernC.pdf)
-    * A Guide to Undefined Behavior in C and C++
-      * [Part 1](https://blog.regehr.org/archives/213)
-      * [Part 2](https://blog.regehr.org/archives/226)
-      * [Part 3](https://blog.regehr.org/archives/232)
-    * What Every C Programmer Should Know About Undefined Behavior
-      * [Part 1](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
-      * [Part 2](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know_14.html)
-      * [Part 3](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know_21.html)
-    * [What a C programmer should know about memory](http://marek.vavrusa.com/memory/)
-    * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
-* Practice Projects
-    * [Beginner Projects](https://github.com/jorgegonzalez/beginner-projects)
-    * [Mega Project List](https://github.com/karan/Projects)
-    * [The UChicago χ-Projects](http://chi.cs.uchicago.edu/index.html)
-* Similar List  
-    * [awesome-diy-software](https://github.com/cweagans/awesome-diy-software)
-    * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
-    * [Projects-from-Scratch](https://github.com/AlgoryL/Projects-from-Scratch)
-    * [Project Based Learning](https://github.com/tuvtran/project-based-learning)
