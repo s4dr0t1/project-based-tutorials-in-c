@@ -53,14 +53,12 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Game Development
 
-* [Write The Old-School Fire Effect and Bare-Metal Programming in Assembly and C](https://www.hanshq.net/fire.html)
 * [Astroids Clone](https://gtk.dashgl.com/?folder=Astroids)
 * [Brickout Clone](https://gtk.dashgl.com/?folder=Brickout)
 * [Chess Engine In C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) `video`
 * [Coding A Sudoku Solver in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) `video`
 * [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) `video`
 * [Creating a 2D platformer](https://www.parallelrealities.co.uk/tutorials/#ppp)
-* [Write Othello Game from scratch in C](https://www.hanshq.net/othello.html)
 * [Creating a 2D shoot 'em up](https://www.parallelrealities.co.uk/tutorials/#shooter)
 * [Creating a 2D top-down shooter](https://www.parallelrealities.co.uk/tutorials/#bad)
 * [Handmade Hero](https://handmadehero.org/) `video` `in-progress`
@@ -80,6 +78,8 @@ A list of tutorials that work towards the making of small to large projects in C
    * [Part I: An Introduction to Rigid Body Dynamics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
    * [Part II: Collision Detection for Solid Objects](https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects)
    * [Part III: Constrained Rigid Body Simulation](https://www.toptal.com/game/video-game-physics-part-iii-constrained-rigid-body-simulation)
+* [Write Othello Game from scratch in C](https://www.hanshq.net/othello.html)
+* [Write The Old-School Fire Effect and Bare-Metal Programming in Assembly and C](https://www.hanshq.net/fire.html)
 * [Writing 2D Games in C using SDL](https://www.youtube.com/watch?v=yFLa3ln16w0) `video`
 * [Writing a Game Boy Advance Game](https://www.reinterpretcast.com/writing-a-game-boy-advance-game)
 
@@ -170,8 +170,8 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
 * [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html)
 * [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) `in-progress`
-* [Write BigInt Calculator in C](https://www.hanshq.net/bigint.html)
 * [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
+* [Write BigInt Calculator in C](https://www.hanshq.net/bigint.html)
 * [Write Your Own Zip from scratch in C](https://www.hanshq.net/zip.html)
 * [Writing an SVG Library](http://www.codedrome.com/svg-library-in-c/)
 
