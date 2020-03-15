@@ -2,7 +2,7 @@
 
 * Tutorial(s) should work towards the completion of a small to large project in C
     * The use of other programming languages are okay as long as the focus is on C
-* Tutorials should be place under the correct category (i.e. a game tutorial would go under the Game Development category)
+* Tutorials should be place under the correct category (i.e. a game tutorial would go under the Game Development category) and in alphabetical order
 * If submitting a multi-part series that doesn't include a Table of Contents, submit as follows:
     ```
     Title:
