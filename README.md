@@ -11,7 +11,6 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Operating Systems](#operating-systems)
 * [Programming Languages](#programming-languages)
 * [Uncategorized](#uncategorized)
-* [Other Resources](#other-resources)
 
 ## Computer Architecture
 
