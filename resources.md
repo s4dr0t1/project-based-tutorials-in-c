@@ -12,6 +12,7 @@
       * [Part 2](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know_14.html)
       * [Part 3](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know_21.html)
     * [What a C programmer should know about memory](http://marek.vavrusa.com/memory/)
+    * [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://cr.yp.to/2005-590/goldberg.pdf)
     * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 * Practice Projects
     * [The UChicago χ-Projects](http://chi.cs.uchicago.edu/index.html)
