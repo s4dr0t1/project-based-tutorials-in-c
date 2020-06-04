@@ -114,6 +114,7 @@ A list of tutorials that work towards the making of small to large projects in C
    * [Part 1](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1)
    * [Part 2](https://indradhanush.github.io/blog/writing-a-unix-shell-part-2)
    * [Part 3](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3)
+ * [OS161: Everything you need to learn about operating systems](https://www.ops-class.org/) `video`
 
 ## Programming Languages
 
