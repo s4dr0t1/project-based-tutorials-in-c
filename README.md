@@ -16,7 +16,7 @@ A list of tutorials that work towards the making of small to large projects in C
 
 * [Bitwise](https://github.com/pervognsen/bitwise) `video` `in-progress`
 * [Emulator 101](http://emulator101.com/)
-* [Implementing a Virtual Machine in C](https://felixangell.com/blog/virtual-machine-in-c)
+* [Implementing a Virtual Machine in C](https://felixangell.com/blogs/virtual-machine-in-c)
 * Writing a Chip 8 Emulator `in-progress`
    * [Part 1](http://craigthomas.ca/blog/2014/06/21/writing-a-chip-8-emulator-part-1/)
    * [Part 2](http://craigthomas.ca/blog/2014/07/17/writing-a-chip-8-emulator-part-2/)
