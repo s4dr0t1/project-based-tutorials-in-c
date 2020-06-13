@@ -14,7 +14,7 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Computer Architecture
 
-* [Bitwise](https://github.com/pervognsen/bitwise) `video` `in-progress`
+* [Bitwise](https://github.com/pervognsen/bitwise) `video` `abandoned`
 * [Emulator 101](http://emulator101.com/)
 * [Implementing a Virtual Machine in C](https://felixangell.com/blogs/virtual-machine-in-c)
 * Writing a Chip 8 Emulator `in-progress`
@@ -99,6 +99,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Linux Containers in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 * [Operating systems development for Dummies](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
 * [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) `book`
+* [OS161: Everything you need to learn about operating systems](https://www.ops-class.org/) `course`
 * [Rewrite cat](https://learnto.computer/screencasts/bsd-cat) `video`
 * Rewrite mkdir `video`
    * [mkdir](https://learnto.computer/screencasts/bsd-mkdir)
@@ -114,7 +115,6 @@ A list of tutorials that work towards the making of small to large projects in C
    * [Part 1](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1)
    * [Part 2](https://indradhanush.github.io/blog/writing-a-unix-shell-part-2)
    * [Part 3](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3)
- * [OS161: Everything you need to learn about operating systems](https://www.ops-class.org/) `course`
 
 ## Programming Languages
 
@@ -123,7 +123,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) `book`
 * [Compiler Design in C](https://holub.com/goodies/compiler/compilerDesignInC.pdf) `book`
-* [Crafting Interpreters](http://www.craftinginterpreters.com/) `book` `in-progress`
+* [Crafting Interpreters](http://www.craftinginterpreters.com/) `book` *Note: Chapters 14-30 *
 * [Let's Build a Compiler: A C & x86 version](https://github.com/lotabout/Let-s-build-a-compiler)
 * Write a C Interpreter
     * [Part 0 - Preface](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/0-Preface.md)
