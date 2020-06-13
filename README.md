@@ -123,7 +123,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) `book`
 * [Compiler Design in C](https://holub.com/goodies/compiler/compilerDesignInC.pdf) `book`
-* [Crafting Interpreters](http://www.craftinginterpreters.com/) `book` *Note: Chapters 14-30 *
+* [Crafting Interpreters](http://www.craftinginterpreters.com/) `book` *Chapters 14-30*
 * [Let's Build a Compiler: A C & x86 version](https://github.com/lotabout/Let-s-build-a-compiler)
 * Write a C Interpreter
     * [Part 0 - Preface](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/0-Preface.md)
