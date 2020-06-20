@@ -57,6 +57,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Chess Engine In C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) `video`
 * [Coding A Sudoku Solver in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) `video`
 * [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) `video`
+* [Create a Game Loop using C and SDL](https://www.udemy.com/course/game-loop-c-sdl/) `course`
 * [Creating a 2D platformer](https://www.parallelrealities.co.uk/tutorials/#ppp)
 * [Creating a 2D shoot 'em up](https://www.parallelrealities.co.uk/tutorials/#shooter)
 * [Creating a 2D top-down shooter](https://www.parallelrealities.co.uk/tutorials/#bad)
@@ -72,11 +73,14 @@ A list of tutorials that work towards the making of small to large projects in C
 * [On Tetris and Reimplementation](https://brennan.io/2015/06/12/tetris-reimplementation/)
 * [SDL 2 Isometric Game Tutorial](https://www.youtube.com/playlist?list=PL6Ikt4l3NbVjb7WR-eTgjOBMNCn7f3u7x) `video` `in-progress`
 * [Simple Tic Tac Toe in C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc7_ZgXA-gIXmME41Rs2GP5) `video`
+* Text Adventure `video` `in-progress`
+    * [Episode 1](https://youtu.be/J_Igbh0RH8c)
+    * [Episode 2](https://www.youtube.com/watch?v=7dYKhiruW1M)
 * [Tic-tac-toe Game in C with SDL](https://www.youtube.com/watch?v=gCVMkKgs3uQ) `video`
 * Video Game Physics Tutorial
-   * [Part I: An Introduction to Rigid Body Dynamics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
-   * [Part II: Collision Detection for Solid Objects](https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects)
-   * [Part III: Constrained Rigid Body Simulation](https://www.toptal.com/game/video-game-physics-part-iii-constrained-rigid-body-simulation)
+    * [Part I: An Introduction to Rigid Body Dynamics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
+    * [Part II: Collision Detection for Solid Objects](https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects)
+    * [Part III: Constrained Rigid Body Simulation](https://www.toptal.com/game/video-game-physics-part-iii-constrained-rigid-body-simulation)
 * [Write Othello Game from scratch in C](https://www.hanshq.net/othello.html)
 * [Write The Old-School Fire Effect and Bare-Metal Programming in Assembly and C](https://www.hanshq.net/fire.html)
 * [Writing 2D Games in C using SDL](https://www.youtube.com/watch?v=yFLa3ln16w0) `video`
