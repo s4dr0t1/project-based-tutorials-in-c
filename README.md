@@ -100,10 +100,11 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Operating systems development for Dummies](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
 * [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) `book`
 * [OS161: Everything you need to learn about operating systems](https://www.ops-class.org/) `course`
-* [Rewrite cat](https://learnto.computer/screencasts/bsd-cat) `video`
-* Rewrite mkdir `video`
-   * [mkdir](https://learnto.computer/screencasts/bsd-mkdir)
-   * [Building paths for mkdir -p](https://learnto.computer/screencasts/bsd-mkdir-p)
+* Re-Writing BSD 4.4 Shell Commands: `video`
+    * [cat](https://www.youtube.com/watch?v=MCuzvy79WWQ)
+    * [chmod](https://www.youtube.com/watch?v=p7uJBl4A_BA)
+    * [echo](https://www.youtube.com/watch?v=69CYF7nJKj8)
+    * [mkdir](https://www.youtube.com/watch?v=t96qYd4OUBM)
 * [Roll your own toy UNIX-clone OS](http://www.jamesmolloy.co.uk/tutorial_html/)
 * [The little book about OS development](https://littleosbook.github.io/) `book`
 * [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
