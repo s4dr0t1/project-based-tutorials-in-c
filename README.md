@@ -65,6 +65,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Hangman](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) `video`
 * [How to Program an NES game in C](https://nesdoug.com/)
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) `in-progress`
+* [Implementing Solitaire in C](https://jborza.github.io/games/2020/07/12/solitaire-cli.html)
 * [Invaders Clone](https://gtk.dashgl.com/?folder=Invaders)
 * [Learn How To Develop Your Own GameBoy Games](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo) `video` `in-progress`
 * [Learn Video Game Programming in C](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) `video`
