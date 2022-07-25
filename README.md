@@ -1,4 +1,4 @@
-# Project Based Tutorials in C
+# Project based tutorials in C
 
 A list of tutorials that work towards the making of small to large projects in C.
 
@@ -14,41 +14,32 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Computer Architecture
 
-* [Bitwise](https://github.com/pervognsen/bitwise) `video` `abandoned`
-* [Emulator 101](http://emulator101.com/)
-* [Implementing a Virtual Machine in C](https://felixangell.com/blogs/virtual-machine-in-c)
-* Writing a Chip 8 Emulator `in-progress`
-   * [Part 1](http://craigthomas.ca/blog/2014/06/21/writing-a-chip-8-emulator-part-1/)
-   * [Part 2](http://craigthomas.ca/blog/2014/07/17/writing-a-chip-8-emulator-part-2/)
-   * [Part 3](http://craigthomas.ca/blog/2015/02/19/writing-a-chip-8-emulator-draw-command-part-3/)
-   * [Part 4](http://craigthomas.ca/blog/2017/10/15/writing-a-chip-8-emulator-built-in-font-set-part-4/)
-   * [Part 5](http://craigthomas.ca/blog/2018/09/07/writing-a-chip-8-emulator-instruction-set-part-5/)
-* [Writing a Game Boy emulator](https://cturt.github.io/cinoop.html)
-* [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
+Name | Description | Link | Tags
+-|-|-|-
+bitwise |  Bitwise is an educational project where we create the software/hardware stack for a computer from scratch. | [GitHub](https://github.com/pervognsen/bitwise) | `abandoned`, `video`
+Emulator 101 | Writing an arcade game emulator is an awesome learning project, and this tutorial will take you through the entire process in a detailed way. Want to really learn how a CPU works? Writing an emulator is the best way to learn about it. | [Link](http://emulator101.com/) | `text`
+Virtual Machine in C | Writing a VM in C | [Link](https://felix.engineer/blogs/virtual-machine-in-c/) | `text`, `virtual-machine`
+Writing a CHIP-8 emulator | Writing a Chip 8 emulator | <li>[Part 1](http://craigthomas.ca/blog/2014/06/21/writing-a-chip-8-emulator-part-1/)</li><li>[Part 2](http://craigthomas.ca/blog/2014/07/17/writing-a-chip-8-emulator-part-2/)</li><li>[Part 3](http://craigthomas.ca/blog/2015/02/19/writing-a-chip-8-emulator-draw-command-part-3/)</li><li>[Part 4](http://craigthomas.ca/blog/2017/10/15/writing-a-chip-8-emulator-built-in-font-set-part-4/)</li><li>[Part 5](http://craigthomas.ca/blog/2018/09/07/writing-a-chip-8-emulator-instruction-set-part-5/)</li> | `emulator`, `text`
+Writing a Game Boy emulator | Writing a Game Boy emulator | [Link](https://cturt.github.io/cinoop.html) | `text`, `emulator`
+Write your Own Virtual Machine | In this tutorial, I will teach you how to write your own virtual machine (VM) that can run assembly language programs, such as my friend’s 2048 or my Roguelike. | [Link](https://justinmeiners.github.io/lc3-vm/) | `text`, `virtual-machine`
 
 ## Computer Networking
 
-* [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/html/multi/index.html) `book`
-* [Concurrent Servers](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
-* [HTTP Server: Everything you need to know to Build a simple HTTP server from scratch](https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa)
-* Let's code a TCP/IP stack
-    * [Part 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
-    * [Part 2: IPv4 & ICMPv4](http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/)
-    * [Part 3: TCP Basics & Handshake](http://www.saminiir.com/lets-code-tcp-ip-stack-3-tcp-handshake/)
-    * [Part 4: TCP Data Flow & Socket API](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)
-    * [Part 5: TCP Retransmission](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
-* [Let's make a NTP Client in C](https://lettier.github.io/posts/2016-04-26-lets-make-a-ntp-client-in-c.html)
-* Write an MQTT broker from scratch
-    * [Part 1 - The protocol](https://codepr.github.io/posts/sol-mqtt-broker)
-    * [Part 2 - Networking](https://codepr.github.io/posts/sol-mqtt-broker-p2)
-    * [Part 3 - Server](https://codepr.github.io/posts/sol-mqtt-broker-p3)
-    * [Part 4 - Data structures](https://codepr.github.io/posts/sol-mqtt-broker-p4)
-    * [Part 5 - Topic abstraction](https://codepr.github.io/posts/sol-mqtt-broker-p5)
-    * [Part 6 - Handlers](https://codepr.github.io/posts/sol-mqtt-broker-p6)
+Name | Description | Link | Tags
+-|-|-|-
+Beej's Guide to Network Programming | Hey! Socket programming got you down? Is this stuff just a little too difficult to figure out from the man pages? You want to do cool Internet programming, but you don’t have time to wade through a gob of structs trying to figure out if you have to call bind() before you connect(), etc., etc. Well, guess what! I’ve already done this nasty business, and I’m dying to share the information with everyone! You’ve come to the right place. This document should give the average competent C programmer the edge s/he needs to get a grip on this networking noise. | [Link](http://beej.us/guide/bgnet/html/multi/index.html)  | `book`
+Concurrent Servers | A series of posts about concurrent network servers | <li>[Part 1 - Introduction](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/) </li><li>[Part 2 - Threads](http://eli.thegreenplace.net/2017/concurrent-servers-part-2-threads/)</li><li>[Part 3 - Event-driven](http://eli.thegreenplace.net/2017/concurrent-servers-part-3-event-driven/)</li><li>[Part 4 - libuv](http://eli.thegreenplace.net/2017/concurrent-servers-part-4-libuv/)</li><li>[Part 5 - Redis case study](http://eli.thegreenplace.net/2017/concurrent-servers-part-5-redis-case-study/)</li><li>[Part 6 - Callbacks, Promises and async/await](http://eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyncawait/)</li> | `text`, `concurrency`, `network-programming`
+Building a simple HTTP server | Everything you need to know to Build a simple HTTP server from scratch | [Medium](https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa) | `http`, `text`
+Let's code a TCP/IP stack | The purpose of these posts and the resulting software is purely educational - to learn network and system programming at a deeper level. | <li>[Part 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)</li><li>[Part 2: IPv4 & ICMPv4](http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/)<li>[Part 3: TCP Basics & Handshake](http://www.saminiir.com/lets-code-tcp-ip-stack-3-tcp-handshake/)</li><li>[Part 4: TCP Data Flow & Socket API](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)</li><li>[Part 5: TCP Retransmission](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)</li>| `networking`, `text`
+Write an MQTT broker from scratch | It’s been a while that for my daily work I deal with IoT architectures and research best patterns to develop such systems, including diving through standards and protocols like MQTT; as I always been craving for new ideas to learn and refine my programming skills, I thought that going a little deeper on the topic would’ve been cool and useful too. So once again I git init a low-level project on my box pushing myself a little further by sharing my steps. | <li>[Part 1 - The protocol](https://codepr.github.io/posts/sol-mqtt-broker)</li><li>[Part 2 - Networking](https://codepr.github.io/posts/sol-mqtt-broker-p2)</li><li>[Part 3 - Server](https://codepr.github.io/posts/sol-mqtt-broker-p3)</li><li>[Part 4 - Data structures](https://codepr.github.io/posts/sol-mqtt-broker-p4)</li><li>[Part 5 - Topic abstraction](https://codepr.github.io/posts/sol-mqtt-broker-p5)</li><li>[Part 6 - Handlers](https://codepr.github.io/posts/sol-mqtt-broker-p6)</li> | `text`, `mqtt`
+Let's make a NTP Client in C | Writing a NTP client in C | [Link](https://lettier.github.io/posts/2016-04-26-lets-make-a-ntp-client-in-c.html) | `ntp`, `text`
+
 
 ## Databases
 
-* [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
+Name | Description | Link | Tags
+-|-|-|-
+Let's Build a Simple Database | Writing a sqlite clone from scratch in C | [Link](https://cstack.github.io/db_tutorial/) | `text`, `sqlite`
 
 ## Game Development
 
@@ -90,38 +81,31 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Operating Systems
 
-* [Build a minimal multi-tasking OS kernel for ARM from scratch](https://github.com/jserv/mini-arm-os)
-* [Build Your Own Shell](https://github.com/tokenrove/build-your-own-shell)
-* [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/)
-* [Hack the Virtual Memory](https://blog.holbertonschool.com/hack-virtual-memory-stack-registers-assembly-code/)
-* [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial) `in-progress`
-* [Learning KVM - implement your own kernel](https://david942j.blogspot.com/2018/10/note-learning-kvm-implement-your-own.html)
-* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) `in-progress`
-* [Let's build a shell!](https://github.com/kamalmarhubi/shell-workshop)
-* [Let's Write a Malloc](https://danluu.com/malloc-tutorial/)
-* Let’s write a Kernel
-    * [Part 1 - Kernel 101](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
-    * [Part 2 - Kernel 201](https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard)
-* [Linux Containers in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
-* [Operating systems development for Dummies](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
-* [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) `book`
-* [OS161: Everything you need to learn about operating systems](https://www.ops-class.org/) `course`
-* Re-Writing BSD 4.4 Shell Commands: `video`
-    * [cat](https://www.youtube.com/watch?v=MCuzvy79WWQ)
-    * [chmod](https://www.youtube.com/watch?v=p7uJBl4A_BA)
-    * [echo](https://www.youtube.com/watch?v=69CYF7nJKj8)
-    * [mkdir](https://www.youtube.com/watch?v=t96qYd4OUBM)
-* [Roll your own toy UNIX-clone OS](http://www.jamesmolloy.co.uk/tutorial_html/)
-* [The little book about OS development](https://littleosbook.github.io/) `book`
-* [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
-* [Write a Simple Memory Allocator](https://arjunsreedharan.org/post/148675821737/write-a-simple-memory-allocator)
-* [Write a System Call](https://brennan.io/2016/11/14/kernel-dev-ep3/)
-* [Writing a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
-* [Writing a shell in C](https://danishprakash.github.io/2018/01/15/write-a-shell.html)
-* Writing a Unix Shell
-   * [Part 1](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1)
-   * [Part 2](https://indradhanush.github.io/blog/writing-a-unix-shell-part-2)
-   * [Part 3](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3)
+Name | Description | Link | Tags
+-|-|-|-
+Build a minimal multi-tasking OS kernel for ARM from scratch | Self explanatory | [GitHub](https://github.com/jserv/mini-arm-os) | `arm`, `multi-tasking`
+Build Your Own Shell | This is the material for a series of workshops I ran at my workplace on how to write a Unix shell. | [GitHub](https://github.com/tokenrove/build-your-own-shell) | `shell`
+Building an Operating System for the Raspberry Pi | Self explanatory | [Link](https://jsandler18.github.io/) | `raspberry-pi`
+Hacking the Virtual memory | Self explanatory | <li>[Chapter 0: Hack The Virtual Memory: C strings & /proc](https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/)</li><li>[Chapter 1: Hack The Virtual Memory: Python bytes](https://blog.holbertonschool.com/hack-the-virtual-memory-python-bytes/)</li><li>[Chapter 2: Hack The Virtual Memory: Drawing the VM diagram](https://blog.holbertonschool.com/hack-the-virtual-memory-drawing-the-vm-diagram/)</li><li>[Chapter 3: Hack the Virtual Memory: malloc, the heap & the program break](https://blog.holbertonschool.com/hack-the-virtual-memory-malloc-the-heap-the-program-break/)</li> | `virtual-memory`
+ os-tutorial |  How to create an OS from scratch  | [GitHub](https://github.com/cfenollosa/os-tutorial) | `operating-system`
+Learning KVM - implement your own kernel  |  Most introduction articles of KVM I found are actually introducing either libvirt or qemu, lack of how to utilize KVM directly, that's why I have this post. | [Link](https://david942j.blogspot.com/2018/10/note-learning-kvm-implement-your-own.html) | `kvm`
+ raspberry-pi-os |  Learning operating system development using Linux kernel and Raspberry Pi  | [GitHub](https://github.com/s-matyukevich/raspberry-pi-os) | `raspberry-pi`, `text`
+shell-workshop |  Materials from my Strange Loop 2014 workshop, Let's Build a Shell! | [GitHub](https://github.com/kamalmarhubi/shell-workshop) | `shell`, `text`
+Malloc tutorial | Let's write a malloc and see how it works with existing programs! | [Link](https://danluu.com/malloc-tutorial/) | `malloc`
+Let’s write a Kernel | Self explanatory | <li>[Part 1: Kernel 101](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)</li><li>[Part 2: Kernel 201](https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard)</li> | `kernel`, `text`
+Linux containers in 500 lines of code | Self explanatory | [Link](https://blog.lizzie.io/linux-containers-in-500-loc.html) | `containers`, `text`
+Operating systems development for Dummies | If you’ve ever used a computer, you may have found yourself wondering how operating systems function on a low level, or even how you you would go about developing one yourself. To say that kernel development is difficult is a severe understatement, it really is “the great pinnacle of programming”. In this guide, we will introduce the basic tools needed and implement a simple operating system in C and x86 Assembly. | [Link](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac) | `operating-systems`, `text`
+os01 | Bootstrap yourself to write an OS from scratch. A book for self-learner. | [Link](https://tuhdo.github.io/os01/) | `book`
+Hack The Kernel | ops-class.org includes everything you need to learn about operating systems online. | [Link](https://www.ops-class.org/) | `course`
+Re-Writing BSD 4.4 Shell Commands | Self explanatory | <li>[cat](https://www.youtube.com/watch?v=MCuzvy79WWQ)</li><li>[chmod](https://www.youtube.com/watch?v=p7uJBl4A_BA)</li><li>[echo](https://www.youtube.com/watch?v=69CYF7nJKj8)</li><li>[mkdir](https://www.youtube.com/watch?v=t96qYd4OUBM)</li> | `video`
+Writing a Unix Shell | One of the projects that I am exploring at RC, is writing a UNIX shell. This is the first part of a series of posts that will eventually follow. | <li>[Part 1](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1)</li><li>[Part 2](https://indradhanush.github.io/blog/writing-a-unix-shell-part-2)</li><li>[Part 3](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3)</li> | `shell`
+Roll your own toy UNIX-clone OS | This set of tutorials aims to take you through programming a simple UNIX-clone operating system for the x86 architecture. The tutorial uses C as the language of choice, with liberally mixed in bits of assembler. The aim is to talk you through the design and implementation decisions in making an operating system. The OS we make is monolithic in design (drivers are loaded through kernel-mode modules as opposed to user-mode programs), as this is simpler. | [Link](http://www.jamesmolloy.co.uk/tutorial_html/) | `unix`, `text`
+The little book about OS development | This text is a practical guide to writing your own x86 operating system. It is designed to give enough help with the technical details while at the same time not reveal too much with samples and code excerpts. We’ve tried to collect parts of the vast (and often excellent) expanse of material and tutorials available, on the web and otherwise, and add our own insights into the problems we encountered and struggled with. | [Link](https://littleosbook.github.io/)  | `book`
+Write a Shell in C | Self explanatory | [Link](https://brennan.io/2015/01/16/write-a-shell-in-c/) | `shell`
+Write a simple memory allocator | This article is about writing a simple memory allocator in C. We will implement malloc(), calloc(), realloc() and free().[Link](https://arjunsreedharan.org/post/148675821737/write-a-simple-memory-allocator) | `allocator`
+Write a System Call | Self explanatory |  [Link](https://brennan.io/2016/11/14/kernel-dev-ep3/) | `system-calls`
+Write a shell in C | Ever wondered how that terminal just works? A more correct question would be how that shell just works? I had one of those too and It took me a couple of searches and a lot of reading to figure out how. I wrote a shell in C, first a basic and then added few more features on top of it. I’ve written the process for writing a basic shell in C. | [Link](https://danishpraka.sh/2018/01/15/write-a-shell.html) | `shell`
+
 
 ## Programming Languages
 
