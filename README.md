@@ -43,41 +43,38 @@ Let's Build a Simple Database | Writing a sqlite clone from scratch in C | [Link
 
 ## Game Development
 
-* [Astroids Clone](https://gtk.dashgl.com/?folder=Astroids)
-* [Brickout Clone](https://gtk.dashgl.com/?folder=Brickout)
-* [Chess Engine In C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) `video`
-* [Coding A Sudoku Solver in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) `video`
-* [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) `video`
-* [Create a Game Loop using C and SDL](https://www.udemy.com/course/game-loop-c-sdl/) `course`
-* [Creating a 2D platformer](https://www.parallelrealities.co.uk/tutorials/#ppp)
-* [Creating a 2D shoot 'em up](https://www.parallelrealities.co.uk/tutorials/#shooter)
-* [Creating a 2D top-down shooter](https://www.parallelrealities.co.uk/tutorials/#bad)
-* [Handmade Hero](https://handmadehero.org/) `video` `in-progress`
-* [Hangman](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) `video`
-* [How to Program an NES game in C](https://nesdoug.com/)
-* [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) `in-progress`
-* [Implementing Solitaire in C](https://jborza.github.io/games/2020/07/12/solitaire-cli.html)
-* [Invaders Clone](https://gtk.dashgl.com/?folder=Invaders)
-* [Learn How To Develop Your Own GameBoy Games](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo) `video` `in-progress`
-* [Learn Video Game Programming in C](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) `video`
-* [Let's Make: Dangerous Dave](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) `video`
-* [Making a game in C from scratch](https://www.youtube.com/playlist?list=PL7Ej6SUky1357r-Lqf_nogZWHssXP-hvH) `video`
-* [Making a Video Game from Scratch in C](https://www.youtube.com/playlist?list=PLlaINRtydtNWuRfd4Ra3KeD6L9FP_tDE7) `video` `in-progress`
-* [On Tetris and Reimplementation](https://brennan.io/2015/06/12/tetris-reimplementation/)
-* [SDL 2 Isometric Game Tutorial](https://www.youtube.com/playlist?list=PL6Ikt4l3NbVjb7WR-eTgjOBMNCn7f3u7x) `video` `in-progress`
-* [Simple Tic Tac Toe in C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc7_ZgXA-gIXmME41Rs2GP5) `video`
-* Text Adventure `video` `in-progress`
-    * [Episode 1](https://youtu.be/J_Igbh0RH8c)
-    * [Episode 2](https://www.youtube.com/watch?v=7dYKhiruW1M)
-* [Tic-tac-toe Game in C with SDL](https://www.youtube.com/watch?v=gCVMkKgs3uQ) `video`
-* Video Game Physics Tutorial
-    * [Part I: An Introduction to Rigid Body Dynamics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
-    * [Part II: Collision Detection for Solid Objects](https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects)
-    * [Part III: Constrained Rigid Body Simulation](https://www.toptal.com/game/video-game-physics-part-iii-constrained-rigid-body-simulation)
-* [Write Othello Game from scratch in C](https://www.hanshq.net/othello.html)
-* [Write The Old-School Fire Effect and Bare-Metal Programming in Assembly and C](https://www.hanshq.net/fire.html)
-* [Writing 2D Games in C using SDL](https://www.youtube.com/watch?v=yFLa3ln16w0) `video`
-* [Writing a Game Boy Advance Game](https://www.reinterpretcast.com/writing-a-game-boy-advance-game)
+Name | Description | Link | Tags
+-|-|-|-
+Astroids Clone | | [Link](https://gtk.dashgl.com/?folder=Astroids) | `tutorial`
+Brickout Clone | | [Link](https://gtk.dashgl.com/?folder=Brickout) | `tutorial`
+Chess Engine in C | | [Link](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) `tutorial`
+Coding a Sudoku Solver in C | | [Link](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) | `tutorial`, `video`
+Coding a Rogue/ Nethack in C | | [Link](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) | `video`, `tutorial`
+Create a Game Loop using C and SDL | | [Link](https://www.udemy.com/course/game-loop-c-sdl/) | `course`
+Creating a 2D platformer | | [Link](https://www.parallelrealities.co.uk/tutorials/#ppp) | `tutorial`
+Creating a 2D shoot 'em up | | [Link](https://www.parallelrealities.co.uk/tutorials/#shooter) | `tutorial`
+Creating a 2D top-down shooter | | [Link](https://www.parallelrealities.co.uk/tutorials/#bad) | `tutorial`
+Handmade Hero | | [Link](https://handmadehero.org/) | `video`, `tutorial`
+Hangman | | [Link](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) | `video`
+How to Program an NES game in C | | [Link](https://nesdoug.com/) | `tutorial`
+How to Program a Text Adventure in C | | [Link](https://helderman.github.io/htpataic/htpataic01.html) | `tutorial`
+Implementing Solitaire in C | | [Link](https://jborza.github.io/games/2020/07/12/solitaire-cli.html) | `tutorial`
+Invaders Clone | | [Link](https://gtk.dashgl.com/?folder=Invaders) | `tutorial`
+Learn How To Develop Your Own GameBoy Games | | [Link](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo)  | `video` 
+Learn Video Game Programming in C | | [Link](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) | `video`
+Let’s Make: Dangerous Dave | | [Link](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) | `video`
+Making a game in C from scratch | | [Link](https://www.youtube.com/playlist?list=PL7Ej6SUky1357r-Lqf_nogZWHssXP-hvH) | `video`
+Making a Video Game from Scratch in C | | [Link](https://www.youtube.com/playlist?list=PLlaINRtydtNWuRfd4Ra3KeD6L9FP_tDE7)  | `video`
+On Tetris and Reimplementation | | [Link](https://brennan.io/2015/06/12/tetris-reimplementation/) | `tutorial`
+SDL 2 Isometric Game Tutorial | | [Link](https://www.youtube.com/playlist?list=PL6Ikt4l3NbVjb7WR-eTgjOBMNCn7f3u7x) | `video`
+Simple Tic Tac Toe in C | | [Link](https://www.youtube.com/playlist?list=PLZ1QII7yudbc7_ZgXA-gIXmME41Rs2GP5) | `video`
+Text Adventure | | <li>[Episode 1](https://youtu.be/J_Igbh0RH8c)</li><li>[Episode 2](https://www.youtube.com/watch?v=7dYKhiruW1M)</li> | `video`
+Tic-tac-toe Game in C with SDL | | [Link](https://www.youtube.com/watch?v=gCVMkKgs3uQ) `video` | `sdl`, `tutorial`, `video`
+Video Game Physics Tutorial | | <li>[Part I: An Introduction to Rigid Body Dynamics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)</li><li>[Part II: Collision Detection for Solid Objects](https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects)</li><li>[Part III: Constrained Rigid Body Simulation](https://www.toptal.com/game/video-game-physics-part-iii-constrained-rigid-body-simulation)</li> | `physics`, `tutorial`
+Write Othello Game from scratch in C | | [Link](https://www.hanshq.net/othello.html) | `tutorial`
+Write The Old-School Fire Effect and Bare-Metal Programming in Assembly and C | | [Link](https://www.hanshq.net/fire.html) | `tutorial`
+Writing 2D Games in C using SDL | | [Link](https://www.youtube.com/watch?v=yFLa3ln16w0)  | `video`, `tutorial`
+Writing a Game Boy Advance Game | | [Link](https://www.reinterpretcast.com/writing-a-game-boy-advance-game) | `tutorial`
 
 ## Operating Systems
 
@@ -109,60 +106,26 @@ Write a shell in C | Ever wondered how that terminal just works? A more correct 
 
 ## Programming Languages
 
-* [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
-* [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
-* [A Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html)
-* [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
-* [Build Your Own Lisp](http://www.buildyourownlisp.com/) `book`
-* [Compiler Design in C](https://holub.com/goodies/compiler/compilerDesignInC.pdf) `book`
-* [Crafting Interpreters](http://www.craftinginterpreters.com/) `book` *Chapters 14-30*
-* [Let's Build a Compiler: A C & x86 version](https://github.com/lotabout/Let-s-build-a-compiler)
-* Write a C Interpreter
-    * [Part 0 - Preface](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/0-Preface.md)
-    * [Part 1 - Skeleton](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/1-Skeleton.md)
-    * [Part 2 - Virtual Machine](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/2-Virtual-Machine.md)
-    * [Part 3 - Lexer](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/3-Lexer.md)
-    * [Part 4 - Top-down Parsing](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/4-Top-down-Parsing.md)
-    * [Part 5 - Variables](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/5-Variables.md)
-    * [Part 6 - Functions](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/6-Functions.md)
-    * [Part 7 - Statements](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/7-Statements.md)
-    * [Part 8 - Expressions](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/8-Expressions.md)
-* [Writing a Simple Garbage Collector in C](http://maplant.com/gc.html)
-* Scheme from Scratch
-    * [Part 1 - Introduction](http://peter.michaux.ca/articles/scheme-from-scratch-introduction)
-    * [Part 2 - Integers](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_1-integers)
-    * [Part 3 - Booleans](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_2-booleans)
-    * [Part 4 - Characters](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_3-characters)
-    * [Part 5 - Strings](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_4-strings)
-    * [Part 6 - The Empty List](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_5-the-empty-list)
-    * [Part 7 - Pairs](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_6-pairs)
-    * [Part 8 - Symbols](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_7-symbols)
-    * [Part 9 - Quote](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_8-quote)
-    * [Part 10 - Environments](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_9-environments)
-    * [Part 11 - if](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_10-if)
-    * [Part 12 - Primitive Procedures Part 1](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_11-primitive-procedures-part-1)
-    * [Part 13 - Primitive Procedures Part 2](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_12-primitive-procedures-part-2)
-    * [Part 14 - Lambda the Ultimate](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_13-lambda-the-ultimate)
-    * [Part 15 - Begin](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_14-begin)
-    * [Part 16 - Cond](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_15-cond)
-    * [Part 17 - Let](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_16-let)
-    * [Part 18 - And and Or](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_17-and-and-or)
-    * [Part 19 - Apply](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_18-apply)
-    * [Part 20 - Eval](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_19-eval)
-    * [Part 21 - I/O](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_20-io)
-    * [Part 22 - Standard Library](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_21-standard-library)
-    * [Part 23 - Garbage Collection](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_22-garbage-collection)
-    * [Part 24 - Conclusion](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-conclusion)
+Name | Description | Link | Tags
+-|-|-|-
+acwj | A compiler writing journey | [Link](https://github.com/DoctorWkt/acwj) | `compilers`
+Writing a regular expression matcher | Self explanatory | [Link](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html) | `regular-expression`
+A Regular Expression Matching Can Be Simple And Fast | Self explanatory | [Link](https://swtch.com/~rsc/regexp/regexp1.html) | `regular-expression`
+Baby’s First Garbage Collector | Garbage collection is considered one of the more shark-infested waters of programming, but in this post, I’ll give you a nice kiddie pool to paddle around in. (There may still be sharks in it, but at least it will be shallower.) | [Link](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/) | `gc`
+ Build Your Own Lisp |  Learn C and build your own programming language in 1000 lines of code! | [Link](http://www.buildyourownlisp.com/) | `book`
+Compiler Design in C| Self explanatory | [PDF](https://holub.com/goodies/compiler/compilerDesignInC.pdf) | `book`
+Crafting Interpreters | Ever wanted to make your own programming language or wondered how they are designed and built? If so, this book is for you. | [Link](http://www.craftinginterpreters.com/) | `book` 
+Let's build a compiler |  A C & x86 version of the "Let's Build a Compiler" by Jack Crenshaw  A C & x86 version of the "Let's Build a Compiler" by Jack Crenshaw  | [Let's Build a Compiler: A C & x86 version](https://github.com/lotabout/Let-s-build-a-compiler) | `compilers`
+Write a C Interpreter |  Write a simple interpreter of C. Inspired by c4 and largely based on it.  | <li>[Part 0: Preface](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/0-Preface.md)</li><li>[Part 1: Skeleton](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/1-Skeleton.md)</li><li>[Part 2: Virtual Machine](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/2-Virtual-Machine.md)</li><li>[Part 3: Lexer](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/3-Lexer.md)</li><li>[Part 4: Top-down Parsing](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/4-Top-down-Parsing.md)</li><li>[Part 5: Variables](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/5-Variables.md)</li><li>[Part 6: Functions](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/6-Functions.md)</li><li>[Part 7: Statements](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/7-Statements.md)</li><li>[Part 8: Expressions](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/8-Expressions.md)</li> | `interpreter`
+Writing a simple garbage collector in C | Self explanatory | [Link](http://maplant.com/gc.html) | `gc`
+Scheme from Scratch | Self explanatory |<li>[Part 1 - Introduction](http://peter.michaux.ca/articles/scheme-from-scratch-introduction)</li><li>[Part 2 - Integers](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_1-integers)</li><li>[Part 3 - Booleans](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_2-booleans)</li><li>[Part 4 - Characters](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_3-characters)</li><li>[Part 5 - Strings](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_4-strings)</li><li>[Part 6 - The Empty List](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_5-the-empty-list)</li><li>[Part 7 - Pairs](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_6-pairs)</li><li>[Part 8 - Symbols](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_7-symbols)</li><li>[Part 9 - Quote](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_8-quote)</li><li>[Part 10 - Environments](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_9-environments)</li><li>[Part 11 - if](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_10-if)</li><li>[Part 12 - Primitive Procedures Part 1](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_11-primitive-procedures-part-1)</li><li>[Part 13 - Primitive Procedures Part 2](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_12-primitive-procedures-part-2)</li><li>[Part 14 - Lambda the Ultimate](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_13-lambda-the-ultimate)</li><li>[Part 15 - Begin](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_14-begin)</li><li>[Part 16 - Cond](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_15-cond)</li><li>[Part 17 - Let](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_16-let)</li><li>[Part 18 - And and Or](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_17-and-and-or)</li><li>[Part 19 - Apply](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_18-apply)</li><li>[Part 20 - Eval](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_19-eval)</li><li>[Part 21 - I/O](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_20-io)</li><li>[Part 22 - Standard Library](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_21-standard-library)</li><li>[Part 23 - Garbage Collection](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_22-garbage-collection)</li><li>[Part 24 - Conclusion](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-conclusion)</li><li>[Part 22 - Standard Library](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_21-standard-library)</li><li>[Part 23 - Garbage Collection](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_22-garbage-collection)</li><li>[Part 24 - Conclusion](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-conclusion)</li> | `scheme`
 
 ## Uncategorized
 
-* A dummy blockchain implementation in C
-   * [Part 1](https://myram.xyz/c-blockchain-implementation-1/)
-   * [Part 2](https://myram.xyz/c-blockchain-implementation-2/)
-* [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
-* [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html)
-* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) `in-progress`
-* [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
-* [Write BigInt Calculator in C](https://www.hanshq.net/bigint.html)
-* [Write Your Own Zip from scratch in C](https://www.hanshq.net/zip.html)
-* [Writing an SVG Library](http://www.codedrome.com/svg-library-in-c/)
+Name | Description | Link | Tags
+-|-|-|-
+A dummy blockchain implementation in C | Self explanatory | <li>[Part 1](https://myram.xyz/c-blockchain-implementation-1/)</li><li>[Part 2](https://myram.xyz/c-blockchain-implementation-2/)</li> | `blockchain`
+ Build Your Own Text Editor  | This is an instruction booklet that shows you how to build a text editor in C. | [Link](https://viewsourcecode.org/snaptoken/kilo/) | `text-editor`
+A Bigint Calculator | This is a programming exercise I've wanted to do for a long time: an implementation of arbitrary-precision integer ("bigint") arithmetic in C. | [Link](https://www.hanshq.net/bigint.html) | `calculator`
+Zip Files | Write your own ZIP from scratch in C | [Link](https://www.hanshq.net/zip.html) | `compression`
+SVG Library in C | In this post I will develop a simple C library to create and save an SVG (Scalable Vector Graphics) file, complete with a few examples of its use. | [Link](http://www.codedrome.com/svg-library-in-c/) | `graphics`
