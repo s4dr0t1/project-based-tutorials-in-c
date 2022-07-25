@@ -4,13 +4,15 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Table of Contents
 
-* [Computer Architecture](#computer-architecture)
-* [Computer Networking](#computer-networking)
-* [Databases](#databases)
-* [Game Development](#game-development)
-* [Operating Systems](#operating-systems)
-* [Programming Languages](#programming-languages)
-* [Uncategorized](#uncategorized)
+- [Project based tutorials in C](#project-based-tutorials-in-c)
+  - [Table of Contents](#table-of-contents)
+  - [Computer Architecture](#computer-architecture)
+  - [Computer Networking](#computer-networking)
+  - [Databases](#databases)
+  - [Game Development](#game-development)
+  - [Operating Systems](#operating-systems)
+  - [Programming Languages](#programming-languages)
+  - [Uncategorized](#uncategorized)
 
 ## Computer Architecture
 
@@ -45,36 +47,36 @@ Let's Build a Simple Database | Writing a sqlite clone from scratch in C | [Link
 
 Name | Description | Link | Tags
 -|-|-|-
-Astroids Clone | | [Link](https://gtk.dashgl.com/?folder=Astroids) | `tutorial`
-Brickout Clone | | [Link](https://gtk.dashgl.com/?folder=Brickout) | `tutorial`
-Chess Engine in C | | [Link](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) `tutorial`
-Coding a Sudoku Solver in C | | [Link](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) | `tutorial`, `video`
-Coding a Rogue/ Nethack in C | | [Link](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) | `video`, `tutorial`
-Create a Game Loop using C and SDL | | [Link](https://www.udemy.com/course/game-loop-c-sdl/) | `course`
-Creating a 2D platformer | | [Link](https://www.parallelrealities.co.uk/tutorials/#ppp) | `tutorial`
-Creating a 2D shoot 'em up | | [Link](https://www.parallelrealities.co.uk/tutorials/#shooter) | `tutorial`
-Creating a 2D top-down shooter | | [Link](https://www.parallelrealities.co.uk/tutorials/#bad) | `tutorial`
-Handmade Hero | | [Link](https://handmadehero.org/) | `video`, `tutorial`
-Hangman | | [Link](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) | `video`
-How to Program an NES game in C | | [Link](https://nesdoug.com/) | `tutorial`
-How to Program a Text Adventure in C | | [Link](https://helderman.github.io/htpataic/htpataic01.html) | `tutorial`
-Implementing Solitaire in C | | [Link](https://jborza.github.io/games/2020/07/12/solitaire-cli.html) | `tutorial`
-Invaders Clone | | [Link](https://gtk.dashgl.com/?folder=Invaders) | `tutorial`
-Learn How To Develop Your Own GameBoy Games | | [Link](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo)  | `video` 
-Learn Video Game Programming in C | | [Link](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) | `video`
-Let’s Make: Dangerous Dave | | [Link](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) | `video`
-Making a game in C from scratch | | [Link](https://www.youtube.com/playlist?list=PL7Ej6SUky1357r-Lqf_nogZWHssXP-hvH) | `video`
-Making a Video Game from Scratch in C | | [Link](https://www.youtube.com/playlist?list=PLlaINRtydtNWuRfd4Ra3KeD6L9FP_tDE7)  | `video`
-On Tetris and Reimplementation | | [Link](https://brennan.io/2015/06/12/tetris-reimplementation/) | `tutorial`
-SDL 2 Isometric Game Tutorial | | [Link](https://www.youtube.com/playlist?list=PL6Ikt4l3NbVjb7WR-eTgjOBMNCn7f3u7x) | `video`
-Simple Tic Tac Toe in C | | [Link](https://www.youtube.com/playlist?list=PLZ1QII7yudbc7_ZgXA-gIXmME41Rs2GP5) | `video`
-Text Adventure | | <li>[Episode 1](https://youtu.be/J_Igbh0RH8c)</li><li>[Episode 2](https://www.youtube.com/watch?v=7dYKhiruW1M)</li> | `video`
-Tic-tac-toe Game in C with SDL | | [Link](https://www.youtube.com/watch?v=gCVMkKgs3uQ) `video` | `sdl`, `tutorial`, `video`
-Video Game Physics Tutorial | | <li>[Part I: An Introduction to Rigid Body Dynamics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)</li><li>[Part II: Collision Detection for Solid Objects](https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects)</li><li>[Part III: Constrained Rigid Body Simulation](https://www.toptal.com/game/video-game-physics-part-iii-constrained-rigid-body-simulation)</li> | `physics`, `tutorial`
-Write Othello Game from scratch in C | | [Link](https://www.hanshq.net/othello.html) | `tutorial`
-Write The Old-School Fire Effect and Bare-Metal Programming in Assembly and C | | [Link](https://www.hanshq.net/fire.html) | `tutorial`
-Writing 2D Games in C using SDL | | [Link](https://www.youtube.com/watch?v=yFLa3ln16w0)  | `video`, `tutorial`
-Writing a Game Boy Advance Game | | [Link](https://www.reinterpretcast.com/writing-a-game-boy-advance-game) | `tutorial`
+Astroids Clone | Simple Astroids clone using assets from Kenney's Space Shooter Redux and Space Shooter Extension | [Link](https://gtk.dashgl.com/Astroids/) | `tutorial`
+Brickout Clone | Make a Brickout Clone using the GTK+ library | [Link](https://gtk.dashgl.com/Brickout/) | `tutorial`
+Chess Engine in C | Write a program/engine that plays Chess | [Link](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) | `tutorial`
+Coding a Sudoku Solver in C | Self explanatory | [Link](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) | `tutorial`, `video`
+Coding a Rogue/ Nethack in C | Self explanatory | [Link](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) | `video`, `tutorial`
+Create a Game Loop using C and SDL | Learn to create a game loop from scratch using the C programming language and SDL | [Link](https://www.udemy.com/course/game-loop-c-sdl/) | `course`
+Creating a 2D platformer | Learn how to create a simple multi-scrolling 2D platformer | [Link](https://www.parallelrealities.co.uk/tutorials/#ppp) | `tutorial`
+Creating a 2D shoot 'em up | How to create a simple 2D shoot 'em up | [Link](https://www.parallelrealities.co.uk/tutorials/#shooter) | `tutorial`
+Creating a 2D top-down shooter | how to create a simple top-down 2D shooter that we're going to call Battle Arena Donk! Mouse controls will be used extensively throughout | [Link](https://www.parallelrealities.co.uk/tutorials/#bad) | `tutorial`
+Handmade Hero | Handmade Hero is an ongoing project by Casey Muratori to create a complete, professional-quality game accompanied by videos that explain every single line of its source code | [Link](https://handmadehero.org/) | `video`, `tutorial`
+Hangman | Write hangman the game! | [Link](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) | `video`
+How to Program an NES game in C | Self explanatory| [Link](https://nesdoug.com/) | `tutorial`
+How to Program a Text Adventure in C | Self explanatory | [Link](https://helderman.github.io/htpataic/htpataic01.html) | `tutorial`
+Implementing Solitaire in C | Self explanatory | [Link](https://jborza.github.io/games/2020/07/12/solitaire-cli.html) | `tutorial`
+Invaders Clone | Simple Invaders clone using Kenney's Space Shooter redux pack | [Link](https://gtk.dashgl.com/Invaders/) | `tutorial`
+Learn How To Develop Your Own GameBoy Games | Self explanatory | [Link](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo)  | `video` 
+Learn Video Game Programming in C | Self explanatory | [Link](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) | `video`
+Let’s Make: Dangerous Dave | Self explanatory | [Link](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) | `video`
+Making a game in C from scratch | Self explanatory | [Link](https://www.youtube.com/playlist?list=PL7Ej6SUky1357r-Lqf_nogZWHssXP-hvH) | `video`
+Making a Video Game from Scratch in C | Self explanatory | [Link](https://www.youtube.com/playlist?list=PLlaINRtydtNWuRfd4Ra3KeD6L9FP_tDE7)  | `video`
+On Tetris and Reimplementation | Implement Tetris from scratch in C, except the GUI. | [Link](https://brennan.io/2015/06/12/tetris-reimplementation/) | `tutorial`
+SDL 2 Isometric Game Tutorial | Code a Isometric Game in C. Isometric video game graphics are graphics employed in video games and pixel art that use a parallel projection, but which angle the viewpoint to reveal facets of the environment that would otherwise not be visible from a top-down perspective or side view, thereby producing a three-dimensional effect. | [Link](https://www.youtube.com/playlist?list=PL6Ikt4l3NbVjb7WR-eTgjOBMNCn7f3u7x) | `video`
+Simple Tic Tac Toe in C | Self explanatory | [Link](https://www.youtube.com/playlist?list=PLZ1QII7yudbc7_ZgXA-gIXmME41Rs2GP5) | `video`
+Text Adventure | A text based adventure game | <li>[Episode 1](https://youtu.be/J_Igbh0RH8c)</li><li>[Episode 2](https://www.youtube.com/watch?v=7dYKhiruW1M)</li> | `video`
+Tic-tac-toe Game in C with SDL | Self explanatory | [Link](https://www.youtube.com/watch?v=gCVMkKgs3uQ) `video` | `sdl`, `tutorial`, `video`
+Video Game Physics Tutorial | Learn the physics of video games. Covers various topics. | <li>[Part I: An Introduction to Rigid Body Dynamics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)</li><li>[Part II: Collision Detection for Solid Objects](https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects)</li><li>[Part III: Constrained Rigid Body Simulation](https://www.toptal.com/game/video-game-physics-part-iii-constrained-rigid-body-simulation)</li> | `physics`, `tutorial`
+Write Othello Game from scratch in C | Write a crossplatform Othello game - the Othello engine, UI | [Link](https://www.hanshq.net/othello.html) | `tutorial`
+Write The Old-School Fire Effect and Bare-Metal Programming in Assembly and C | Draw fire on the screen! | [Link](https://www.hanshq.net/fire.html) | `tutorial`
+Writing 2D Games in C using SDL | Self explanatory | [Link](https://www.youtube.com/watch?v=yFLa3ln16w0)  | `video`, `tutorial`
+Writing a Game Boy Advance Game | Self explanatory | [Link](https://www.reinterpretcast.com/writing-a-game-boy-advance-game) | `tutorial`
 
 ## Operating Systems
 

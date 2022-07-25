@@ -3,6 +3,7 @@
 * C
     * [awesome-c](https://github.com/kozross/awesome-c)
     * [Modern C](https://gforge.inria.fr/frs/download.php/latestfile/5298/ModernC.pdf)
+    * [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
     * A Guide to Undefined Behavior in C and C++
       * [Part 1](https://blog.regehr.org/archives/213)
       * [Part 2](https://blog.regehr.org/archives/226)
